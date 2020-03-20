@@ -17,10 +17,9 @@ first_word = []
 
 for x in lines:
     x=list(x)
-    for i in x:
-        i= list(i)
-        if (i != " "):
-            first_word[x].appent(i)
+    for i in len(x):
+        if (i != ' '):
+            first_word[x].append(i)
         else:
             break
             
