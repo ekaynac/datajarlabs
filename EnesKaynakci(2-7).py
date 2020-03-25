@@ -56,13 +56,15 @@ my_dataframe["Fibonacci Set"] = fibolen(10)
 
 
 #part2
-train_set = pd.read_csv("train.csv",index_col =0)
+train_set = pd.read_csv("train.csv",index_col =0)                        
+
 agemeanpersex = train_set.groupby(by="Sex").mean()["Age"]
+                                                       
 print(agemeanpersex,"\n")
 
 sett = train_set[train_set["Age"] > 30]
 
-i = len(sett[sett["Survived"]==0])
+i = len(sett[sett["Survived"]==0]                   )
 j = len(sett[sett["Survived"]==1])
 
 survivalratio = j/(i+j)
