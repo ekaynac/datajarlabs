@@ -21,5 +21,7 @@ df =pd.read_csv("GOOG.csv")
 df = df["Open"]
 
 plt.figure()
+
 plt.hist(df, bins = 50 )
+
 plt.hist(dagilim, bins = 50 )
