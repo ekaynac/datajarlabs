@@ -16,14 +16,26 @@ df.info()
 
 
 missing_percent = df.isnull().sum()*100/df.shape[0]
+dfilled= df
 
 ## PART 2
+# Yüzdelik olarak çok eksik olan sütunları doldurmak anlamsızdır.
+# Çok uç değerlerde olan
+for x in df.iloc[0:1918,3:21]:
+    dfilled[x] = df[x].fillna(df[x].mean())
+    
+missing_percent2 = df.isnull().sum()*100/df.shape[0]
 
-# Yıl değişkenini atarsak verileri statelerine göre gruplarım
-#ve statelerin eksik değerlerini o statein ortalamalarıyla doldururum
+
 
 ## PART 3
 
-y=df.groupby("YEAR").mean()
 
-y=df.groupby("YEAR").fillna(df.groupby(by="YEAR")).mean()
+mean_yearly= df.groupby(by="YEAR").mean()
+
+  
+
+##PART 4  
+
+
+
