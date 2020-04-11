@@ -1,0 +1,3250 @@
+,location,new_cases,new_deaths,total_cases,total_deaths,continent,population
+0,Afghanistan,1,0,1,0,Asia,38928341
+1,Afghanistan,0,0,1,0,Asia,38928341
+2,Afghanistan,0,0,1,0,Asia,38928341
+3,Afghanistan,0,0,1,0,Asia,38928341
+4,Afghanistan,0,0,1,0,Asia,38928341
+5,Afghanistan,0,0,1,0,Asia,38928341
+6,Afghanistan,0,0,1,0,Asia,38928341
+7,Afghanistan,3,0,4,0,Asia,38928341
+8,Afghanistan,3,0,7,0,Asia,38928341
+9,Afghanistan,3,0,10,0,Asia,38928341
+10,Afghanistan,6,0,16,0,Asia,38928341
+11,Afghanistan,5,0,21,0,Asia,38928341
+12,Afghanistan,1,0,22,0,Asia,38928341
+13,Afghanistan,0,0,22,0,Asia,38928341
+14,Afghanistan,0,0,22,0,Asia,38928341
+15,Afghanistan,2,0,24,0,Asia,38928341
+16,Afghanistan,0,0,24,0,Asia,38928341
+17,Afghanistan,10,0,34,0,Asia,38928341
+18,Afghanistan,6,1,40,1,Asia,38928341
+19,Afghanistan,2,0,42,1,Asia,38928341
+20,Afghanistan,33,0,75,1,Asia,38928341
+21,Afghanistan,0,0,75,1,Asia,38928341
+22,Afghanistan,16,1,91,2,Asia,38928341
+23,Afghanistan,15,1,106,3,Asia,38928341
+24,Afghanistan,8,1,114,4,Asia,38928341
+25,Afghanistan,27,0,141,4,Asia,38928341
+26,Afghanistan,25,0,166,4,Asia,38928341
+27,Afghanistan,26,0,192,4,Asia,38928341
+28,Afghanistan,43,0,235,4,Asia,38928341
+29,Afghanistan,0,0,235,4,Asia,38928341
+30,Afghanistan,35,1,270,5,Asia,38928341
+31,Afghanistan,29,2,299,7,Asia,38928341
+32,Algeria,1,0,1,0,Africa,43851043
+33,Algeria,0,0,1,0,Africa,43851043
+34,Algeria,0,0,1,0,Africa,43851043
+35,Algeria,0,0,1,0,Africa,43851043
+36,Algeria,0,0,1,0,Africa,43851043
+37,Algeria,2,0,3,0,Africa,43851043
+38,Algeria,2,0,5,0,Africa,43851043
+39,Algeria,7,0,12,0,Africa,43851043
+40,Algeria,5,0,17,0,Africa,43851043
+41,Algeria,3,0,20,0,Africa,43851043
+42,Algeria,0,0,20,0,Africa,43851043
+43,Algeria,4,1,24,1,Africa,43851043
+44,Algeria,2,1,26,2,Africa,43851043
+45,Algeria,11,0,37,2,Africa,43851043
+46,Algeria,11,2,48,4,Africa,43851043
+47,Algeria,12,0,60,4,Africa,43851043
+48,Algeria,0,1,60,5,Africa,43851043
+49,Algeria,13,1,73,6,Africa,43851043
+50,Algeria,9,1,82,7,Africa,43851043
+51,Algeria,12,3,94,10,Africa,43851043
+52,Algeria,0,0,94,10,Africa,43851043
+53,Algeria,8,5,102,15,Africa,43851043
+54,Algeria,87,2,189,17,Africa,43851043
+55,Algeria,42,0,231,17,Africa,43851043
+56,Algeria,33,0,264,17,Africa,43851043
+57,Algeria,41,4,305,21,Africa,43851043
+58,Algeria,0,0,305,21,Africa,43851043
+59,Algeria,104,5,409,26,Africa,43851043
+60,Algeria,45,3,454,29,Africa,43851043
+61,Algeria,57,2,511,31,Africa,43851043
+62,Algeria,73,4,584,35,Africa,43851043
+63,Algeria,263,23,847,58,Africa,43851043
+64,Algeria,0,0,847,58,Africa,43851043
+65,Algeria,139,25,986,83,Africa,43851043
+66,Algeria,314,47,1300,130,Africa,43851043
+67,Algeria,20,22,1320,152,Africa,43851043
+68,Argentina,1,0,1,0,North America,97928
+69,Argentina,1,0,2,0,South America,45195777
+70,Argentina,6,0,8,0,South America,45195777
+71,Argentina,1,1,9,1,South America,45195777
+72,Argentina,3,0,12,1,South America,45195777
+73,Argentina,7,0,19,1,South America,45195777
+74,Argentina,12,0,31,1,South America,45195777
+75,Argentina,3,1,34,2,South America,45195777
+76,Argentina,11,0,45,2,South America,45195777
+77,Argentina,11,0,56,2,South America,45195777
+78,Argentina,9,0,65,2,South America,45195777
+79,Argentina,14,0,79,2,South America,45195777
+80,Argentina,18,0,97,2,South America,45195777
+81,Argentina,31,1,128,3,South America,45195777
+82,Argentina,30,0,158,3,South America,45195777
+83,Argentina,67,1,225,4,South America,45195777
+84,Argentina,41,0,266,4,South America,45195777
+85,Argentina,35,0,301,4,South America,45195777
+86,Argentina,86,2,387,6,South America,45195777
+87,Argentina,115,2,502,8,South America,45195777
+88,Argentina,87,4,589,12,South America,45195777
+89,Argentina,101,5,690,17,South America,45195777
+90,Argentina,55,2,745,19,South America,45195777
+91,Argentina,75,1,820,20,South America,45195777
+92,Argentina,146,4,966,24,South America,45195777
+93,Argentina,0,0,966,24,South America,45195777
+94,Argentina,167,7,1133,31,South America,45195777
+95,Argentina,0,3,1133,34,South America,45195777
+96,Argentina,132,3,1265,37,South America,45195777
+97,Argentina,186,6,1451,43,South America,45195777
+98,Argentina,103,3,1554,46,South America,45195777
+99,Australia,1,0,1,0,Oceania,25499881
+100,Australia,3,0,4,0,Oceania,25499881
+101,Australia,0,0,4,0,Oceania,25499881
+102,Australia,0,0,4,0,Oceania,25499881
+103,Australia,0,0,4,0,Oceania,25499881
+104,Australia,2,0,6,0,Oceania,25499881
+105,Australia,1,0,7,0,Oceania,25499881
+106,Australia,2,0,9,0,Oceania,25499881
+107,Australia,2,0,11,0,Oceania,25499881
+108,Australia,0,0,11,0,Oceania,25499881
+109,Australia,0,0,11,0,Oceania,25499881
+110,Australia,1,0,12,0,Oceania,25499881
+111,Australia,1,0,13,0,Oceania,25499881
+112,Australia,1,0,14,0,Oceania,25499881
+113,Australia,0,0,14,0,Oceania,25499881
+114,Australia,0,0,14,0,Oceania,25499881
+115,Australia,0,0,14,0,Oceania,25499881
+116,Australia,0,0,14,0,Oceania,25499881
+117,Australia,0,0,14,0,Oceania,25499881
+118,Australia,0,0,14,0,Oceania,25499881
+119,Australia,1,0,15,0,Oceania,25499881
+120,Australia,0,0,15,0,Oceania,25499881
+121,Australia,0,0,15,0,Oceania,25499881
+122,Australia,0,0,15,0,Oceania,25499881
+123,Australia,0,0,15,0,Oceania,25499881
+124,Australia,0,0,15,0,Oceania,25499881
+125,Australia,0,0,15,0,Oceania,25499881
+126,Australia,2,0,17,0,Oceania,25499881
+127,Australia,4,0,21,0,Oceania,25499881
+128,Australia,1,0,22,0,Oceania,25499881
+129,Australia,0,0,22,0,Oceania,25499881
+130,Australia,0,0,22,0,Oceania,25499881
+131,Australia,0,0,22,0,Oceania,25499881
+132,Australia,1,0,23,0,Oceania,25499881
+133,Australia,0,0,23,0,Oceania,25499881
+134,Australia,2,0,25,0,Oceania,25499881
+135,Australia,1,1,26,1,Oceania,25499881
+136,Australia,3,0,29,1,Oceania,25499881
+137,Australia,4,0,33,1,Oceania,25499881
+138,Australia,8,0,41,1,Oceania,25499881
+139,Australia,11,1,52,2,Oceania,25499881
+140,Australia,7,0,59,2,Oceania,25499881
+141,Australia,4,0,63,2,Oceania,25499881
+142,Australia,11,1,74,3,Oceania,25499881
+143,Australia,6,0,80,3,Oceania,25499881
+144,Australia,20,0,100,3,Oceania,25499881
+145,Australia,12,0,112,3,Oceania,25499881
+146,Australia,14,0,126,3,Oceania,25499881
+147,Australia,30,0,156,3,Oceania,25499881
+148,Australia,41,0,197,3,Oceania,25499881
+149,Australia,52,0,249,3,Oceania,25499881
+150,Australia,49,2,298,5,Oceania,25499881
+151,Australia,77,0,375,5,Oceania,25499881
+152,Australia,79,0,454,5,Oceania,25499881
+153,Australia,111,1,565,6,Oceania,25499881
+154,Australia,144,0,709,6,Oceania,25499881
+155,Australia,165,1,874,7,Oceania,25499881
+156,Australia,224,0,1098,7,Oceania,25499881
+157,Australia,611,0,1709,7,Oceania,25499881
+158,Australia,114,0,1823,7,Oceania,25499881
+159,Australia,600,1,2423,8,Oceania,25499881
+160,Australia,376,3,2799,11,Oceania,25499881
+161,Australia,367,2,3166,13,Oceania,25499881
+162,Australia,212,0,3378,13,Oceania,25499881
+163,Australia,431,1,3809,14,Oceania,25499881
+164,Australia,284,2,4093,16,Oceania,25499881
+165,Australia,464,3,4557,19,Oceania,25499881
+166,Australia,150,1,4707,20,Oceania,25499881
+167,Australia,269,1,4976,21,Oceania,25499881
+168,Australia,248,2,5224,23,Oceania,25499881
+169,Australia,324,7,5548,30,Oceania,25499881
+170,Australia,139,4,5687,34,Oceania,25499881
+171,Australia,57,2,5744,36,Oceania,25499881
+172,Austria,2,0,2,0,Europe,9006400
+173,Austria,0,0,2,0,Europe,9006400
+174,Austria,3,0,5,0,Europe,9006400
+175,Austria,2,0,7,0,Europe,9006400
+176,Austria,3,0,10,0,Europe,9006400
+177,Austria,4,0,14,0,Europe,9006400
+178,Austria,4,0,18,0,Europe,9006400
+179,Austria,6,0,24,0,Europe,9006400
+180,Austria,5,0,29,0,Europe,9006400
+181,Austria,12,0,41,0,Europe,9006400
+182,Austria,33,0,74,0,Europe,9006400
+183,Austria,25,0,99,0,Europe,9006400
+184,Austria,3,0,102,0,Europe,9006400
+185,Austria,29,0,131,0,Europe,9006400
+186,Austria,51,0,182,0,Europe,9006400
+187,Austria,64,0,246,0,Europe,9006400
+188,Austria,115,1,361,1,Europe,9006400
+189,Austria,143,0,504,1,Europe,9006400
+190,Austria,151,0,655,1,Europe,9006400
+191,Austria,205,0,860,1,Europe,9006400
+192,Austria,156,2,1016,3,Europe,9006400
+193,Austria,316,0,1332,3,Europe,9006400
+194,Austria,314,1,1646,4,Europe,9006400
+195,Austria,550,2,2196,6,Europe,9006400
+196,Austria,453,0,2649,6,Europe,9006400
+197,Austria,375,2,3024,8,Europe,9006400
+198,Austria,607,8,3631,16,Europe,9006400
+199,Austria,855,9,4486,25,Europe,9006400
+200,Austria,796,5,5282,30,Europe,9006400
+201,Austria,606,4,5888,34,Europe,9006400
+202,Austria,1141,18,7029,52,Europe,9006400
+203,Austria,668,16,7697,68,Europe,9006400
+204,Austria,594,0,8291,68,Europe,9006400
+205,Austria,522,18,8813,86,Europe,9006400
+206,Austria,805,22,9618,108,Europe,9006400
+207,Austria,564,20,10182,128,Europe,9006400
+208,Austria,529,18,10711,146,Europe,9006400
+209,Austria,418,12,11129,158,Europe,9006400
+210,Austria,396,10,11525,168,Europe,9006400
+211,Austria,241,18,11766,186,Europe,9006400
+212,Austria,217,18,11983,204,Europe,9006400
+213,Azerbaijan,1,0,1,0,Asia,10139175
+214,Azerbaijan,0,0,1,0,Asia,10139175
+215,Azerbaijan,2,0,3,0,Asia,10139175
+216,Azerbaijan,3,0,6,0,Asia,10139175
+217,Azerbaijan,3,0,9,0,Asia,10139175
+218,Azerbaijan,2,0,11,0,Asia,10139175
+219,Azerbaijan,2,0,13,0,Asia,10139175
+220,Azerbaijan,0,0,13,0,Asia,10139175
+221,Azerbaijan,6,0,19,0,Asia,10139175
+222,Azerbaijan,0,0,19,0,Asia,10139175
+223,Azerbaijan,0,0,19,0,Asia,10139175
+224,Azerbaijan,9,0,28,0,Asia,10139175
+225,Azerbaijan,6,0,34,0,Asia,10139175
+226,Azerbaijan,10,0,44,0,Asia,10139175
+227,Azerbaijan,0,1,44,1,Asia,10139175
+228,Azerbaijan,9,0,53,1,Asia,10139175
+229,Azerbaijan,12,0,65,1,Asia,10139175
+230,Azerbaijan,7,0,72,1,Asia,10139175
+231,Azerbaijan,15,0,87,1,Asia,10139175
+232,Azerbaijan,6,1,93,2,Asia,10139175
+233,Azerbaijan,29,1,122,3,Asia,10139175
+234,Azerbaijan,43,0,165,3,Asia,10139175
+235,Azerbaijan,17,1,182,4,Asia,10139175
+236,Azerbaijan,27,0,209,4,Asia,10139175
+237,Azerbaijan,64,0,273,4,Asia,10139175
+238,Azerbaijan,25,1,298,5,Asia,10139175
+239,Azerbaijan,61,0,359,5,Asia,10139175
+240,Azerbaijan,41,0,400,5,Asia,10139175
+241,Azerbaijan,43,0,443,5,Asia,10139175
+242,Azerbaijan,78,0,521,5,Asia,10139175
+243,Azerbaijan,63,2,584,7,Asia,10139175
+244,Bahrain,1,0,1,0,Asia,1701583
+245,Bahrain,1,0,2,0,Asia,1701583
+246,Bahrain,21,0,23,0,Asia,1701583
+247,Bahrain,10,0,33,0,Asia,1701583
+248,Bahrain,0,0,33,0,Asia,1701583
+249,Bahrain,5,0,38,0,Asia,1701583
+250,Bahrain,3,0,41,0,Asia,1701583
+251,Bahrain,6,0,47,0,Asia,1701583
+252,Bahrain,2,0,49,0,Asia,1701583
+253,Bahrain,3,0,52,0,Asia,1701583
+254,Bahrain,0,0,52,0,Asia,1701583
+255,Bahrain,4,0,56,0,Asia,1701583
+256,Bahrain,7,0,63,0,Asia,1701583
+257,Bahrain,16,0,79,0,Asia,1701583
+258,Bahrain,30,0,109,0,Asia,1701583
+259,Bahrain,1,0,110,0,Asia,1701583
+260,Bahrain,52,0,162,0,Asia,1701583
+261,Bahrain,0,0,162,0,Asia,1701583
+262,Bahrain,48,0,210,0,Asia,1701583
+263,Bahrain,1,0,211,0,Asia,1701583
+264,Bahrain,3,0,214,0,Asia,1701583
+265,Bahrain,7,1,221,1,Asia,1701583
+266,Bahrain,16,0,237,1,Asia,1701583
+267,Bahrain,19,0,256,1,Asia,1701583
+268,Bahrain,13,0,269,1,Asia,1701583
+269,Bahrain,16,0,285,1,Asia,1701583
+270,Bahrain,21,0,306,1,Asia,1701583
+271,Bahrain,28,1,334,2,Asia,1701583
+272,Bahrain,5,0,339,2,Asia,1701583
+273,Bahrain,51,1,390,3,Asia,1701583
+274,Bahrain,29,0,419,3,Asia,1701583
+275,Bahrain,39,1,458,4,Asia,1701583
+276,Bahrain,8,0,466,4,Asia,1701583
+277,Bahrain,7,0,473,4,Asia,1701583
+278,Bahrain,27,0,500,4,Asia,1701583
+279,Bahrain,15,0,515,4,Asia,1701583
+280,Bahrain,52,0,567,4,Asia,1701583
+281,Bahrain,2,0,569,4,Asia,1701583
+282,Bahrain,74,0,643,4,Asia,1701583
+283,Bahrain,0,0,643,4,Asia,1701583
+284,Bahrain,45,0,688,4,Asia,1701583
+285,Bahrain,12,0,700,4,Asia,1701583
+286,Belarus,1,0,1,0,Europe,9449321
+287,Belarus,0,0,1,0,Europe,9449321
+288,Belarus,0,0,1,0,Europe,9449321
+289,Belarus,0,0,1,0,Europe,9449321
+290,Belarus,3,0,4,0,Europe,9449321
+291,Belarus,2,0,6,0,Europe,9449321
+292,Belarus,3,0,9,0,Europe,9449321
+293,Belarus,3,0,12,0,Europe,9449321
+294,Belarus,9,0,21,0,Europe,9449321
+295,Belarus,6,0,27,0,Europe,9449321
+296,Belarus,9,0,36,0,Europe,9449321
+297,Belarus,0,0,36,0,Europe,9449321
+298,Belarus,10,0,46,0,Europe,9449321
+299,Belarus,11,0,57,0,Europe,9449321
+300,Belarus,0,0,57,0,Europe,9449321
+301,Belarus,19,0,76,0,Europe,9449321
+302,Belarus,0,0,76,0,Europe,9449321
+303,Belarus,5,0,81,0,Europe,9449321
+304,Belarus,0,0,81,0,Europe,9449321
+305,Belarus,5,0,86,0,Europe,9449321
+306,Belarus,0,0,86,0,Europe,9449321
+307,Belarus,8,0,94,0,Europe,9449321
+308,Belarus,0,0,94,0,Europe,9449321
+309,Belarus,0,0,94,0,Europe,9449321
+310,Belarus,11,0,105,0,Europe,9449321
+311,Belarus,47,0,152,0,Europe,9449321
+312,Belarus,0,0,152,0,Europe,9449321
+313,Belarus,102,4,254,4,Europe,9449321
+314,Belarus,97,0,351,4,Europe,9449321
+315,Belarus,43,1,394,5,Europe,9449321
+316,Belarus,170,3,564,8,Europe,9449321
+317,Belgium,1,0,1,0,Europe,11589616
+318,Belgium,0,0,1,0,Europe,11589616
+319,Belgium,0,0,1,0,Europe,11589616
+320,Belgium,0,0,1,0,Europe,11589616
+321,Belgium,0,0,1,0,Europe,11589616
+322,Belgium,0,0,1,0,Europe,11589616
+323,Belgium,0,0,1,0,Europe,11589616
+324,Belgium,0,0,1,0,Europe,11589616
+325,Belgium,0,0,1,0,Europe,11589616
+326,Belgium,0,0,1,0,Europe,11589616
+327,Belgium,0,0,1,0,Europe,11589616
+328,Belgium,0,0,1,0,Europe,11589616
+329,Belgium,0,0,1,0,Europe,11589616
+330,Belgium,0,0,1,0,Europe,11589616
+331,Belgium,0,0,1,0,Europe,11589616
+332,Belgium,0,0,1,0,Europe,11589616
+333,Belgium,0,0,1,0,Europe,11589616
+334,Belgium,0,0,1,0,Europe,11589616
+335,Belgium,0,0,1,0,Europe,11589616
+336,Belgium,0,0,1,0,Europe,11589616
+337,Belgium,0,0,1,0,Europe,11589616
+338,Belgium,0,0,1,0,Europe,11589616
+339,Belgium,0,0,1,0,Europe,11589616
+340,Belgium,0,0,1,0,Europe,11589616
+341,Belgium,0,0,1,0,Europe,11589616
+342,Belgium,0,0,1,0,Europe,11589616
+343,Belgium,0,0,1,0,Europe,11589616
+344,Belgium,1,0,2,0,Europe,11589616
+345,Belgium,6,0,8,0,Europe,11589616
+346,Belgium,5,0,13,0,Europe,11589616
+347,Belgium,10,0,23,0,Europe,11589616
+348,Belgium,27,0,50,0,Europe,11589616
+349,Belgium,59,0,109,0,Europe,11589616
+350,Belgium,60,0,169,0,Europe,11589616
+351,Belgium,31,0,200,0,Europe,11589616
+352,Belgium,39,0,239,0,Europe,11589616
+353,Belgium,28,0,267,0,Europe,11589616
+354,Belgium,47,3,314,3,Europe,11589616
+355,Belgium,85,0,399,3,Europe,11589616
+356,Belgium,160,0,559,3,Europe,11589616
+357,Belgium,130,1,689,4,Europe,11589616
+358,Belgium,197,0,886,4,Europe,11589616
+359,Belgium,199,1,1085,5,Europe,11589616
+360,Belgium,158,0,1243,5,Europe,11589616
+361,Belgium,243,9,1486,14,Europe,11589616
+362,Belgium,309,7,1795,21,Europe,11589616
+363,Belgium,462,16,2257,37,Europe,11589616
+364,Belgium,558,30,2815,67,Europe,11589616
+365,Belgium,586,8,3401,75,Europe,11589616
+366,Belgium,342,13,3743,88,Europe,11589616
+367,Belgium,526,34,4269,122,Europe,11589616
+368,Belgium,668,56,4937,178,Europe,11589616
+369,Belgium,1298,42,6235,220,Europe,11589616
+370,Belgium,1049,69,7284,289,Europe,11589616
+371,Belgium,1850,64,9134,353,Europe,11589616
+372,Belgium,1702,78,10836,431,Europe,11589616
+373,Belgium,1063,82,11899,513,Europe,11589616
+374,Belgium,876,192,12775,705,Europe,11589616
+375,Belgium,1189,123,13964,828,Europe,11589616
+376,Belgium,1384,183,15348,1011,Europe,11589616
+377,Belgium,1422,132,16770,1143,Europe,11589616
+378,Belgium,1661,140,18431,1283,Europe,11589616
+379,Belgium,1260,164,19691,1447,Europe,11589616
+380,Brazil,1,0,1,0,South America,212559409
+381,Brazil,0,0,1,0,South America,212559409
+382,Brazil,0,0,1,0,South America,212559409
+383,Brazil,0,0,1,0,South America,212559409
+384,Brazil,1,0,2,0,South America,212559409
+385,Brazil,0,0,2,0,South America,212559409
+386,Brazil,1,0,3,0,South America,212559409
+387,Brazil,5,0,8,0,South America,212559409
+388,Brazil,5,0,13,0,South America,212559409
+389,Brazil,0,0,13,0,South America,212559409
+390,Brazil,12,0,25,0,South America,212559409
+391,Brazil,9,0,34,0,South America,212559409
+392,Brazil,18,0,52,0,South America,212559409
+393,Brazil,25,0,77,0,South America,212559409
+394,Brazil,21,0,98,0,South America,212559409
+395,Brazil,23,0,121,0,South America,212559409
+396,Brazil,79,0,200,0,South America,212559409
+397,Brazil,34,0,234,0,South America,212559409
+398,Brazil,57,1,291,1,South America,212559409
+399,Brazil,137,3,428,4,South America,212559409
+400,Brazil,193,2,621,6,South America,212559409
+401,Brazil,283,5,904,11,South America,212559409
+402,Brazil,224,7,1128,18,South America,212559409
+403,Brazil,418,7,1546,25,South America,212559409
+404,Brazil,345,9,1891,34,South America,212559409
+405,Brazil,310,12,2201,46,South America,212559409
+406,Brazil,232,11,2433,57,South America,212559409
+407,Brazil,482,20,2915,77,South America,212559409
+408,Brazil,502,15,3417,92,South America,212559409
+409,Brazil,487,22,3904,114,South America,212559409
+410,Brazil,352,22,4256,136,South America,212559409
+411,Brazil,323,23,4579,159,South America,212559409
+412,Brazil,1138,42,5717,201,South America,212559409
+413,Brazil,1119,40,6836,241,South America,212559409
+414,Brazil,1074,58,7910,299,South America,212559409
+415,Brazil,1146,60,9056,359,South America,212559409
+416,Brazil,1222,73,10278,432,South America,212559409
+417,Brazil,852,54,11130,486,South America,212559409
+418,Cambodia,1,0,1,0,Asia,16718971
+419,Cambodia,0,0,1,0,Asia,16718971
+420,Cambodia,0,0,1,0,Asia,16718971
+421,Cambodia,0,0,1,0,Asia,16718971
+422,Cambodia,0,0,1,0,Asia,16718971
+423,Cambodia,0,0,1,0,Asia,16718971
+424,Cambodia,0,0,1,0,Asia,16718971
+425,Cambodia,0,0,1,0,Asia,16718971
+426,Cambodia,0,0,1,0,Asia,16718971
+427,Cambodia,0,0,1,0,Asia,16718971
+428,Cambodia,0,0,1,0,Asia,16718971
+429,Cambodia,0,0,1,0,Asia,16718971
+430,Cambodia,0,0,1,0,Asia,16718971
+431,Cambodia,0,0,1,0,Asia,16718971
+432,Cambodia,0,0,1,0,Asia,16718971
+433,Cambodia,0,0,1,0,Asia,16718971
+434,Cambodia,0,0,1,0,Asia,16718971
+435,Cambodia,0,0,1,0,Asia,16718971
+436,Cambodia,0,0,1,0,Asia,16718971
+437,Cambodia,0,0,1,0,Asia,16718971
+438,Cambodia,0,0,1,0,Asia,16718971
+439,Cambodia,0,0,1,0,Asia,16718971
+440,Cambodia,0,0,1,0,Asia,16718971
+441,Cambodia,0,0,1,0,Asia,16718971
+442,Cambodia,0,0,1,0,Asia,16718971
+443,Cambodia,0,0,1,0,Asia,16718971
+444,Cambodia,0,0,1,0,Asia,16718971
+445,Cambodia,0,0,1,0,Asia,16718971
+446,Cambodia,0,0,1,0,Asia,16718971
+447,Cambodia,0,0,1,0,Asia,16718971
+448,Cambodia,0,0,1,0,Asia,16718971
+449,Cambodia,0,0,1,0,Asia,16718971
+450,Cambodia,0,0,1,0,Asia,16718971
+451,Cambodia,0,0,1,0,Asia,16718971
+452,Cambodia,0,0,1,0,Asia,16718971
+453,Cambodia,1,0,2,0,Asia,16718971
+454,Cambodia,1,0,3,0,Asia,16718971
+455,Cambodia,2,0,5,0,Asia,16718971
+456,Cambodia,2,0,7,0,Asia,16718971
+457,Cambodia,5,0,12,0,Asia,16718971
+458,Cambodia,12,0,24,0,Asia,16718971
+459,Cambodia,0,0,24,0,Asia,16718971
+460,Cambodia,0,0,24,0,Asia,16718971
+461,Cambodia,0,0,24,0,Asia,16718971
+462,Cambodia,23,0,47,0,Asia,16718971
+463,Cambodia,4,0,51,0,Asia,16718971
+464,Cambodia,35,0,86,0,Asia,16718971
+465,Cambodia,1,0,87,0,Asia,16718971
+466,Cambodia,4,0,91,0,Asia,16718971
+467,Cambodia,5,0,96,0,Asia,16718971
+468,Cambodia,2,0,98,0,Asia,16718971
+469,Cambodia,4,0,102,0,Asia,16718971
+470,Cambodia,1,0,103,0,Asia,16718971
+471,Cambodia,4,0,107,0,Asia,16718971
+472,Cambodia,2,0,109,0,Asia,16718971
+473,Cambodia,0,0,109,0,Asia,16718971
+474,Cambodia,1,0,110,0,Asia,16718971
+475,Cambodia,4,0,114,0,Asia,16718971
+476,Cambodia,0,0,114,0,Asia,16718971
+477,Cambodia,0,0,114,0,Asia,16718971
+478,Cambodia,0,0,114,0,Asia,16718971
+479,Canada,1,0,1,0,North America,37742157
+480,Canada,0,0,1,0,North America,37742157
+481,Canada,1,0,2,0,North America,37742157
+482,Canada,1,0,3,0,North America,37742157
+483,Canada,0,0,3,0,North America,37742157
+484,Canada,0,0,3,0,North America,37742157
+485,Canada,1,0,4,0,North America,37742157
+486,Canada,0,0,4,0,North America,37742157
+487,Canada,0,0,4,0,North America,37742157
+488,Canada,0,0,4,0,North America,37742157
+489,Canada,1,0,5,0,North America,37742157
+490,Canada,0,0,5,0,North America,37742157
+491,Canada,2,0,7,0,North America,37742157
+492,Canada,0,0,7,0,North America,37742157
+493,Canada,0,0,7,0,North America,37742157
+494,Canada,0,0,7,0,North America,37742157
+495,Canada,0,0,7,0,North America,37742157
+496,Canada,0,0,7,0,North America,37742157
+497,Canada,0,0,7,0,North America,37742157
+498,Canada,0,0,7,0,North America,37742157
+499,Canada,1,0,8,0,North America,37742157
+500,Canada,0,0,8,0,North America,37742157
+501,Canada,0,0,8,0,North America,37742157
+502,Canada,0,0,8,0,North America,37742157
+503,Canada,0,0,8,0,North America,37742157
+504,Canada,0,0,8,0,North America,37742157
+505,Canada,1,0,9,0,North America,37742157
+506,Canada,0,0,9,0,North America,37742157
+507,Canada,0,0,9,0,North America,37742157
+508,Canada,0,0,9,0,North America,37742157
+509,Canada,2,0,11,0,North America,37742157
+510,Canada,0,0,11,0,North America,37742157
+511,Canada,1,0,12,0,North America,37742157
+512,Canada,2,0,14,0,North America,37742157
+513,Canada,2,0,16,0,North America,37742157
+514,Canada,4,0,20,0,North America,37742157
+515,Canada,4,0,24,0,North America,37742157
+516,Canada,3,0,27,0,North America,37742157
+517,Canada,3,0,30,0,North America,37742157
+518,Canada,3,0,33,0,North America,37742157
+519,Canada,12,0,45,0,North America,37742157
+520,Canada,6,0,51,0,North America,37742157
+521,Canada,6,0,57,0,North America,37742157
+522,Canada,5,0,62,0,North America,37742157
+523,Canada,15,1,77,1,North America,37742157
+524,Canada,16,0,93,1,North America,37742157
+525,Canada,10,0,103,1,North America,37742157
+526,Canada,35,0,138,1,North America,37742157
+527,Canada,38,0,176,1,North America,37742157
+528,Canada,68,0,244,1,North America,37742157
+529,Canada,60,0,304,1,North America,37742157
+530,Canada,120,3,424,4,North America,37742157
+531,Canada,145,4,569,8,North America,37742157
+532,Canada,121,1,690,9,North America,37742157
+533,Canada,156,1,846,10,North America,37742157
+534,Canada,125,2,971,12,North America,37742157
+535,Canada,260,1,1231,13,North America,37742157
+536,Canada,199,5,1430,18,North America,37742157
+537,Canada,216,6,1646,24,North America,37742157
+538,Canada,313,3,1959,27,North America,37742157
+539,Canada,1426,8,3385,35,North America,37742157
+540,Canada,633,4,4018,39,North America,37742157
+541,Canada,671,14,4689,53,North America,37742157
+542,Canada,697,7,5386,60,North America,37742157
+543,Canada,869,1,6255,61,North America,37742157
+544,Canada,1169,28,7424,89,North America,37742157
+545,Canada,1112,7,8536,96,North America,37742157
+546,Canada,1059,13,9595,109,North America,37742157
+547,Canada,1673,29,11268,138,North America,37742157
+548,Canada,1251,49,12519,187,North America,37742157
+549,Canada,1363,44,13882,231,North America,37742157
+550,Canada,1614,49,15496,280,North America,37742157
+551,Chile,1,0,1,0,South America,19116209
+552,Chile,2,0,3,0,South America,19116209
+553,Chile,1,0,4,0,South America,19116209
+554,Chile,1,0,5,0,South America,19116209
+555,Chile,5,0,10,0,South America,19116209
+556,Chile,3,0,13,0,South America,19116209
+557,Chile,4,0,17,0,South America,19116209
+558,Chile,6,0,23,0,South America,19116209
+559,Chile,10,0,33,0,South America,19116209
+560,Chile,10,0,43,0,South America,19116209
+561,Chile,18,0,61,0,South America,19116209
+562,Chile,14,0,75,0,South America,19116209
+563,Chile,81,0,156,0,South America,19116209
+564,Chile,45,0,201,0,South America,19116209
+565,Chile,37,0,238,0,South America,19116209
+566,Chile,104,0,342,0,South America,19116209
+567,Chile,92,0,434,0,South America,19116209
+568,Chile,103,0,537,0,South America,19116209
+569,Chile,95,1,632,1,South America,19116209
+570,Chile,114,1,746,2,South America,19116209
+571,Chile,176,0,922,2,South America,19116209
+572,Chile,220,1,1142,3,South America,19116209
+573,Chile,164,1,1306,4,South America,19116209
+574,Chile,304,1,1610,5,South America,19116209
+575,Chile,299,1,1909,6,South America,19116209
+576,Chile,230,1,2139,7,South America,19116209
+577,Chile,310,1,2449,8,South America,19116209
+578,Chile,289,4,2738,12,South America,19116209
+579,Chile,293,4,3031,16,South America,19116209
+580,Chile,373,2,3404,18,South America,19116209
+581,Chile,333,4,3737,22,South America,19116209
+582,Chile,424,5,4161,27,South America,19116209
+583,Chile,310,7,4471,34,South America,19116209
+584,China,27,0,27,0,Asia,1439323774
+585,China,0,0,27,0,Asia,1439323774
+586,China,0,0,27,0,Asia,1439323774
+587,China,17,0,44,0,Asia,1439323774
+588,China,0,0,44,0,Asia,1439323774
+589,China,15,0,59,0,Asia,1439323774
+590,China,0,0,59,0,Asia,1439323774
+591,China,0,0,59,0,Asia,1439323774
+592,China,0,0,59,0,Asia,1439323774
+593,China,0,0,59,0,Asia,1439323774
+594,China,0,0,59,0,Asia,1439323774
+595,China,0,1,59,1,Asia,1439323774
+596,China,0,0,59,1,Asia,1439323774
+597,China,0,0,59,1,Asia,1439323774
+598,China,0,0,59,1,Asia,1439323774
+599,China,0,1,59,2,Asia,1439323774
+600,China,0,0,59,2,Asia,1439323774
+601,China,4,0,63,2,Asia,1439323774
+602,China,17,0,80,2,Asia,1439323774
+603,China,136,1,216,3,Asia,1439323774
+604,China,19,0,235,3,Asia,1439323774
+605,China,151,3,386,6,Asia,1439323774
+606,China,140,11,526,17,Asia,1439323774
+607,China,97,0,623,17,Asia,1439323774
+608,China,259,9,882,26,Asia,1439323774
+609,China,441,15,1323,41,Asia,1439323774
+610,China,665,15,1988,56,Asia,1439323774
+611,China,787,25,2775,81,Asia,1439323774
+612,China,1753,25,4528,106,Asia,1439323774
+613,China,1466,26,5994,132,Asia,1439323774
+614,China,1740,38,7734,170,Asia,1439323774
+615,China,1980,43,9714,213,Asia,1439323774
+616,China,2095,46,11809,259,Asia,1439323774
+617,China,2590,45,14399,304,Asia,1439323774
+618,China,2812,57,17211,361,Asia,1439323774
+619,China,3237,65,20448,426,Asia,1439323774
+620,China,3872,66,24320,492,Asia,1439323774
+621,China,3727,72,28047,564,Asia,1439323774
+622,China,3160,73,31207,637,Asia,1439323774
+623,China,3418,86,34625,723,Asia,1439323774
+624,China,2607,89,37232,812,Asia,1439323774
+625,China,2974,97,40206,909,Asia,1439323774
+626,China,2490,108,42696,1017,Asia,1439323774
+627,China,2028,97,44724,1114,Asia,1439323774
+628,China,15141,254,59865,1368,Asia,1439323774
+629,China,4156,13,64021,1381,Asia,1439323774
+630,China,2538,143,66559,1524,Asia,1439323774
+631,China,2007,142,68566,1666,Asia,1439323774
+632,China,2052,105,70618,1771,Asia,1439323774
+633,China,1890,98,72508,1869,Asia,1439323774
+634,China,1750,139,74258,2008,Asia,1439323774
+635,China,394,112,74652,2120,Asia,1439323774
+636,China,891,118,75543,2238,Asia,1439323774
+637,China,826,109,76369,2347,Asia,1439323774
+638,China,647,98,77016,2445,Asia,1439323774
+639,China,218,150,77234,2595,Asia,1439323774
+640,China,515,70,77749,2665,Asia,1439323774
+641,China,410,52,78159,2717,Asia,1439323774
+642,China,439,29,78598,2746,Asia,1439323774
+643,China,329,44,78927,2790,Asia,1439323774
+644,China,428,47,79355,2837,Asia,1439323774
+645,China,574,35,79929,2872,Asia,1439323774
+646,China,205,42,80134,2914,Asia,1439323774
+647,China,127,32,80261,2946,Asia,1439323774
+648,China,119,37,80380,2983,Asia,1439323774
+649,China,117,31,80497,3014,Asia,1439323774
+650,China,170,30,80667,3044,Asia,1439323774
+651,China,101,28,80768,3072,Asia,1439323774
+652,China,46,27,80814,3099,Asia,1439323774
+653,China,45,23,80859,3122,Asia,1439323774
+654,China,20,17,80879,3139,Asia,1439323774
+655,China,29,22,80908,3161,Asia,1439323774
+656,China,24,11,80932,3172,Asia,1439323774
+657,China,22,7,80954,3179,Asia,1439323774
+658,China,19,15,80973,3194,Asia,1439323774
+659,China,22,9,80995,3203,Asia,1439323774
+660,China,25,13,81020,3216,Asia,1439323774
+661,China,43,9,81063,3225,Asia,1439323774
+662,China,23,16,81086,3241,Asia,1439323774
+663,China,44,8,81130,3249,Asia,1439323774
+664,China,99,4,81229,3253,Asia,1439323774
+665,China,52,6,81281,3259,Asia,1439323774
+666,China,65,6,81346,3265,Asia,1439323774
+667,China,138,9,81484,3274,Asia,1439323774
+668,China,69,7,81553,3281,Asia,1439323774
+669,China,78,4,81631,3285,Asia,1439323774
+670,China,102,6,81733,3291,Asia,1439323774
+671,China,94,5,81827,3296,Asia,1439323774
+672,China,119,3,81946,3299,Asia,1439323774
+673,China,113,5,82059,3304,Asia,1439323774
+674,China,98,2,82157,3306,Asia,1439323774
+675,China,84,3,82241,3309,Asia,1439323774
+676,China,54,1,82295,3310,Asia,1439323774
+677,China,100,6,82395,3316,Asia,1439323774
+678,China,70,10,82465,3326,Asia,1439323774
+679,China,62,4,82527,3330,Asia,1439323774
+680,China,48,3,82575,3333,Asia,1439323774
+681,China,67,2,82642,3335,Asia,1439323774
+682,Croatia,1,0,1,0,Europe,4105268
+683,Croatia,1,0,2,0,Europe,4105268
+684,Croatia,1,0,3,0,Europe,4105268
+685,Croatia,2,0,5,0,Europe,4105268
+686,Croatia,0,0,5,0,Europe,4105268
+687,Croatia,2,0,7,0,Europe,4105268
+688,Croatia,1,0,8,0,Europe,4105268
+689,Croatia,1,0,9,0,Europe,4105268
+690,Croatia,1,0,10,0,Europe,4105268
+691,Croatia,1,0,11,0,Europe,4105268
+692,Croatia,1,0,12,0,Europe,4105268
+693,Croatia,1,0,13,0,Europe,4105268
+694,Croatia,3,0,16,0,Europe,4105268
+695,Croatia,9,0,25,0,Europe,4105268
+696,Croatia,6,0,31,0,Europe,4105268
+697,Croatia,6,0,37,0,Europe,4105268
+698,Croatia,11,0,48,0,Europe,4105268
+699,Croatia,8,0,56,0,Europe,4105268
+700,Croatia,13,0,69,0,Europe,4105268
+701,Croatia,12,0,81,0,Europe,4105268
+702,Croatia,23,0,104,0,Europe,4105268
+703,Croatia,22,0,126,0,Europe,4105268
+704,Croatia,80,0,206,0,Europe,4105268
+705,Croatia,29,0,235,0,Europe,4105268
+706,Croatia,71,0,306,0,Europe,4105268
+707,Croatia,76,1,382,1,Europe,4105268
+708,Croatia,36,0,418,1,Europe,4105268
+709,Croatia,77,1,495,2,Europe,4105268
+710,Croatia,91,1,586,3,Europe,4105268
+711,Croatia,71,2,657,5,Europe,4105268
+712,Croatia,56,1,713,6,Europe,4105268
+713,Croatia,77,0,790,6,Europe,4105268
+714,Croatia,77,0,867,6,Europe,4105268
+715,Croatia,96,0,963,6,Europe,4105268
+716,Croatia,48,1,1011,7,Europe,4105268
+717,Croatia,68,1,1079,8,Europe,4105268
+718,Croatia,47,4,1126,12,Europe,4105268
+719,Croatia,56,3,1182,15,Europe,4105268
+720,Czech Republic,3,0,3,0,Europe,10708982
+721,Czech Republic,2,0,5,0,Europe,10708982
+722,Czech Republic,0,0,5,0,Europe,10708982
+723,Czech Republic,3,0,8,0,Europe,10708982
+724,Czech Republic,4,0,12,0,Europe,10708982
+725,Czech Republic,7,0,19,0,Europe,10708982
+726,Czech Republic,7,0,26,0,Europe,10708982
+727,Czech Republic,6,0,32,0,Europe,10708982
+728,Czech Republic,8,0,40,0,Europe,10708982
+729,Czech Republic,23,0,63,0,Europe,10708982
+730,Czech Republic,31,0,94,0,Europe,10708982
+731,Czech Republic,22,0,116,0,Europe,10708982
+732,Czech Republic,34,0,150,0,Europe,10708982
+733,Czech Republic,64,0,214,0,Europe,10708982
+734,Czech Republic,84,0,298,0,Europe,10708982
+735,Czech Republic,46,0,344,0,Europe,10708982
+736,Czech Republic,90,0,434,0,Europe,10708982
+737,Czech Republic,88,0,522,0,Europe,10708982
+738,Czech Republic,172,0,694,0,Europe,10708982
+739,Czech Republic,210,0,904,0,Europe,10708982
+740,Czech Republic,91,0,995,0,Europe,10708982
+741,Czech Republic,170,1,1165,1,Europe,10708982
+742,Czech Republic,71,0,1236,1,Europe,10708982
+743,Czech Republic,158,2,1394,3,Europe,10708982
+744,Czech Republic,260,3,1654,6,Europe,10708982
+745,Czech Republic,408,3,2062,9,Europe,10708982
+746,Czech Republic,217,0,2279,9,Europe,10708982
+747,Czech Republic,384,2,2663,11,Europe,10708982
+748,Czech Republic,166,5,2829,16,Europe,10708982
+749,Czech Republic,173,8,3002,24,Europe,10708982
+750,Czech Republic,306,7,3308,31,Europe,10708982
+751,Czech Republic,281,8,3589,39,Europe,10708982
+752,Czech Republic,269,5,3858,44,Europe,10708982
+753,Czech Republic,332,9,4190,53,Europe,10708982
+754,Czech Republic,282,6,4472,59,Europe,10708982
+755,Czech Republic,115,8,4587,67,Europe,10708982
+756,Denmark,1,0,1,0,Europe,5792203
+757,Denmark,0,0,1,0,Europe,5792203
+758,Denmark,1,0,2,0,Europe,5792203
+759,Denmark,1,0,3,0,Europe,5792203
+760,Denmark,1,0,4,0,Europe,5792203
+761,Denmark,1,0,5,0,Europe,5792203
+762,Denmark,3,0,8,0,Europe,5792203
+763,Denmark,2,0,10,0,Europe,5792203
+764,Denmark,10,0,20,0,Europe,5792203
+765,Denmark,3,0,23,0,Europe,5792203
+766,Denmark,8,0,31,0,Europe,5792203
+767,Denmark,7,0,38,0,Europe,5792203
+768,Denmark,75,0,113,0,Europe,5792203
+769,Denmark,151,0,264,0,Europe,5792203
+770,Denmark,252,0,516,0,Europe,5792203
+771,Denmark,160,0,676,0,Europe,5792203
+772,Denmark,128,0,804,0,Europe,5792203
+773,Denmark,23,0,827,0,Europe,5792203
+774,Denmark,48,1,875,1,Europe,5792203
+775,Denmark,57,0,932,1,Europe,5792203
+776,Denmark,92,3,1024,4,Europe,5792203
+777,Denmark,91,0,1115,4,Europe,5792203
+778,Denmark,36,2,1151,6,Europe,5792203
+779,Denmark,104,3,1255,9,Europe,5792203
+780,Denmark,71,4,1326,13,Europe,5792203
+781,Denmark,69,0,1395,13,Europe,5792203
+782,Denmark,65,11,1460,24,Europe,5792203
+783,Denmark,131,8,1591,32,Europe,5792203
+784,Denmark,133,2,1724,34,Europe,5792203
+785,Denmark,153,7,1877,41,Europe,5792203
+786,Denmark,169,11,2046,52,Europe,5792203
+787,Denmark,155,13,2201,65,Europe,5792203
+788,Denmark,194,7,2395,72,Europe,5792203
+789,Denmark,182,5,2577,77,Europe,5792203
+790,Denmark,283,13,2860,90,Europe,5792203
+791,Denmark,247,14,3107,104,Europe,5792203
+792,Denmark,279,19,3386,123,Europe,5792203
+793,Denmark,371,16,3757,139,Europe,5792203
+794,Denmark,320,22,4077,161,Europe,5792203
+795,Denmark,292,18,4369,179,Europe,5792203
+796,Ecuador,1,0,1,0,South America,17643060
+797,Ecuador,5,0,6,0,South America,17643060
+798,Ecuador,1,0,7,0,South America,17643060
+799,Ecuador,3,0,10,0,South America,17643060
+800,Ecuador,3,0,13,0,South America,17643060
+801,Ecuador,1,0,14,0,South America,17643060
+802,Ecuador,1,0,15,0,South America,17643060
+803,Ecuador,2,0,17,0,South America,17643060
+804,Ecuador,6,1,23,1,South America,17643060
+805,Ecuador,5,1,28,2,South America,17643060
+806,Ecuador,9,0,37,2,South America,17643060
+807,Ecuador,21,0,58,2,South America,17643060
+808,Ecuador,53,0,111,2,South America,17643060
+809,Ecuador,57,1,168,3,South America,17643060
+810,Ecuador,31,0,199,3,South America,17643060
+811,Ecuador,227,4,426,7,South America,17643060
+812,Ecuador,106,0,532,7,South America,17643060
+813,Ecuador,257,7,789,14,South America,17643060
+814,Ecuador,192,4,981,18,South America,17643060
+815,Ecuador,101,9,1082,27,South America,17643060
+816,Ecuador,129,2,1211,29,South America,17643060
+817,Ecuador,192,5,1403,34,South America,17643060
+818,Ecuador,224,7,1627,41,South America,17643060
+819,Ecuador,208,7,1835,48,South America,17643060
+820,Ecuador,55,10,1890,58,South America,17643060
+821,Ecuador,76,4,1966,62,South America,17643060
+822,Ecuador,336,17,2302,79,South America,17643060
+823,Ecuador,456,41,2758,120,South America,17643060
+824,Ecuador,405,0,3163,120,South America,17643060
+825,Ecuador,205,25,3368,145,South America,17643060
+826,Ecuador,97,27,3465,172,South America,17643060
+827,Ecuador,181,8,3646,180,South America,17643060
+828,Egypt,1,0,1,0,Africa,102334403
+829,Egypt,0,0,1,0,Africa,102334403
+830,Egypt,0,0,1,0,Africa,102334403
+831,Egypt,0,0,1,0,Africa,102334403
+832,Egypt,0,0,1,0,Africa,102334403
+833,Egypt,0,0,1,0,Africa,102334403
+834,Egypt,0,0,1,0,Africa,102334403
+835,Egypt,0,0,1,0,Africa,102334403
+836,Egypt,0,0,1,0,Africa,102334403
+837,Egypt,0,0,1,0,Africa,102334403
+838,Egypt,0,0,1,0,Africa,102334403
+839,Egypt,0,0,1,0,Africa,102334403
+840,Egypt,0,0,1,0,Africa,102334403
+841,Egypt,0,0,1,0,Africa,102334403
+842,Egypt,0,0,1,0,Africa,102334403
+843,Egypt,0,0,1,0,Africa,102334403
+844,Egypt,1,0,2,0,Africa,102334403
+845,Egypt,1,0,3,0,Africa,102334403
+846,Egypt,12,0,15,0,Africa,102334403
+847,Egypt,34,1,49,1,Africa,102334403
+848,Egypt,6,0,55,1,Africa,102334403
+849,Egypt,4,0,59,1,Africa,102334403
+850,Egypt,1,0,60,1,Africa,102334403
+851,Egypt,20,1,80,2,Africa,102334403
+852,Egypt,13,0,93,2,Africa,102334403
+853,Egypt,0,0,93,2,Africa,102334403
+854,Egypt,17,0,110,2,Africa,102334403
+855,Egypt,16,0,126,2,Africa,102334403
+856,Egypt,40,2,166,4,Africa,102334403
+857,Egypt,30,2,196,6,Africa,102334403
+858,Egypt,14,0,210,6,Africa,102334403
+859,Egypt,46,1,256,7,Africa,102334403
+860,Egypt,29,1,285,8,Africa,102334403
+861,Egypt,9,2,294,10,Africa,102334403
+862,Egypt,33,4,327,14,Africa,102334403
+863,Egypt,39,5,366,19,Africa,102334403
+864,Egypt,76,2,442,21,Africa,102334403
+865,Egypt,14,0,456,21,Africa,102334403
+866,Egypt,39,3,495,24,Africa,102334403
+867,Egypt,41,6,536,30,Africa,102334403
+868,Egypt,40,6,576,36,Africa,102334403
+869,Egypt,33,4,609,40,Africa,102334403
+870,Egypt,47,1,656,41,Africa,102334403
+871,Egypt,54,5,710,46,Africa,102334403
+872,Egypt,69,6,779,52,Africa,102334403
+873,Egypt,0,0,779,52,Africa,102334403
+874,Egypt,206,14,985,66,Africa,102334403
+875,Egypt,85,5,1070,71,Africa,102334403
+876,Estonia,1,0,1,0,Europe,1326539
+877,Estonia,0,0,1,0,Europe,1326539
+878,Estonia,0,0,1,0,Europe,1326539
+879,Estonia,0,0,1,0,Europe,1326539
+880,Estonia,1,0,2,0,Europe,1326539
+881,Estonia,3,0,5,0,Europe,1326539
+882,Estonia,5,0,10,0,Europe,1326539
+883,Estonia,3,0,13,0,Europe,1326539
+884,Estonia,3,0,16,0,Europe,1326539
+885,Estonia,11,0,27,0,Europe,1326539
+886,Estonia,52,0,79,0,Europe,1326539
+887,Estonia,36,0,115,0,Europe,1326539
+888,Estonia,56,0,171,0,Europe,1326539
+889,Estonia,34,0,205,0,Europe,1326539
+890,Estonia,20,0,225,0,Europe,1326539
+891,Estonia,33,0,258,0,Europe,1326539
+892,Estonia,9,0,267,0,Europe,1326539
+893,Estonia,16,0,283,0,Europe,1326539
+894,Estonia,23,0,306,0,Europe,1326539
+895,Estonia,20,0,326,0,Europe,1326539
+896,Estonia,26,0,352,0,Europe,1326539
+897,Estonia,17,0,369,0,Europe,1326539
+898,Estonia,35,1,404,1,Europe,1326539
+899,Estonia,134,0,538,1,Europe,1326539
+900,Estonia,37,0,575,1,Europe,1326539
+901,Estonia,65,0,640,1,Europe,1326539
+902,Estonia,39,2,679,3,Europe,1326539
+903,Estonia,36,0,715,3,Europe,1326539
+904,Estonia,30,1,745,4,Europe,1326539
+905,Estonia,34,1,779,5,Europe,1326539
+906,Estonia,79,6,858,11,Europe,1326539
+907,Estonia,103,1,961,12,Europe,1326539
+908,Estonia,57,1,1018,13,Europe,1326539
+909,Estonia,79,2,1097,15,Europe,1326539
+910,Finland,1,0,1,0,Europe,5540718
+911,Finland,0,0,1,0,Europe,5540718
+912,Finland,0,0,1,0,Europe,5540718
+913,Finland,0,0,1,0,Europe,5540718
+914,Finland,0,0,1,0,Europe,5540718
+915,Finland,0,0,1,0,Europe,5540718
+916,Finland,0,0,1,0,Europe,5540718
+917,Finland,0,0,1,0,Europe,5540718
+918,Finland,0,0,1,0,Europe,5540718
+919,Finland,0,0,1,0,Europe,5540718
+920,Finland,0,0,1,0,Europe,5540718
+921,Finland,0,0,1,0,Europe,5540718
+922,Finland,0,0,1,0,Europe,5540718
+923,Finland,0,0,1,0,Europe,5540718
+924,Finland,0,0,1,0,Europe,5540718
+925,Finland,0,0,1,0,Europe,5540718
+926,Finland,0,0,1,0,Europe,5540718
+927,Finland,0,0,1,0,Europe,5540718
+928,Finland,0,0,1,0,Europe,5540718
+929,Finland,0,0,1,0,Europe,5540718
+930,Finland,0,0,1,0,Europe,5540718
+931,Finland,0,0,1,0,Europe,5540718
+932,Finland,0,0,1,0,Europe,5540718
+933,Finland,0,0,1,0,Europe,5540718
+934,Finland,0,0,1,0,Europe,5540718
+935,Finland,0,0,1,0,Europe,5540718
+936,Finland,0,0,1,0,Europe,5540718
+937,Finland,0,0,1,0,Europe,5540718
+938,Finland,1,0,2,0,Europe,5540718
+939,Finland,0,0,2,0,Europe,5540718
+940,Finland,1,0,3,0,Europe,5540718
+941,Finland,0,0,3,0,Europe,5540718
+942,Finland,3,0,6,0,Europe,5540718
+943,Finland,1,0,7,0,Europe,5540718
+944,Finland,5,0,12,0,Europe,5540718
+945,Finland,7,0,19,0,Europe,5540718
+946,Finland,11,0,30,0,Europe,5540718
+947,Finland,10,0,40,0,Europe,5540718
+948,Finland,19,0,59,0,Europe,5540718
+949,Finland,96,0,155,0,Europe,5540718
+950,Finland,55,0,210,0,Europe,5540718
+951,Finland,57,0,267,0,Europe,5540718
+952,Finland,5,0,272,0,Europe,5540718
+953,Finland,47,0,319,0,Europe,5540718
+954,Finland,50,0,369,0,Europe,5540718
+955,Finland,31,0,400,0,Europe,5540718
+956,Finland,50,0,450,0,Europe,5540718
+957,Finland,71,1,521,1,Europe,5540718
+958,Finland,105,0,626,1,Europe,5540718
+959,Finland,74,0,700,1,Europe,5540718
+960,Finland,92,0,792,1,Europe,5540718
+961,Finland,88,2,880,3,Europe,5540718
+962,Finland,78,1,958,4,Europe,5540718
+963,Finland,67,3,1025,7,Europe,5540718
+964,Finland,193,2,1218,9,Europe,5540718
+965,Finland,0,2,1218,11,Europe,5540718
+966,Finland,95,2,1313,13,Europe,5540718
+967,Finland,71,4,1384,17,Europe,5540718
+968,Finland,62,0,1446,17,Europe,5540718
+969,Finland,72,2,1518,19,Europe,5540718
+970,Finland,97,1,1615,20,Europe,5540718
+971,Finland,267,5,1882,25,Europe,5540718
+972,Finland,45,3,1927,28,Europe,5540718
+973,France,3,0,3,0,Europe,65273512
+974,France,0,0,3,0,Europe,65273512
+975,France,0,0,3,0,Europe,65273512
+976,France,0,0,3,0,Europe,65273512
+977,France,1,0,4,0,Europe,65273512
+978,France,1,0,5,0,Europe,65273512
+979,France,1,0,6,0,Europe,65273512
+980,France,0,0,6,0,Europe,65273512
+981,France,0,0,6,0,Europe,65273512
+982,France,0,0,6,0,Europe,65273512
+983,France,0,0,6,0,Europe,65273512
+984,France,0,0,6,0,Europe,65273512
+985,France,0,0,6,0,Europe,65273512
+986,France,0,0,6,0,Europe,65273512
+987,France,5,0,11,0,Europe,65273512
+988,France,0,0,11,0,Europe,65273512
+989,France,0,0,11,0,Europe,65273512
+990,France,0,0,11,0,Europe,65273512
+991,France,0,0,11,0,Europe,65273512
+992,France,0,0,11,0,Europe,65273512
+993,France,0,0,11,0,Europe,65273512
+994,France,0,1,11,1,Europe,65273512
+995,France,0,0,11,1,Europe,65273512
+996,France,1,0,12,1,Europe,65273512
+997,France,0,0,12,1,Europe,65273512
+998,France,0,0,12,1,Europe,65273512
+999,France,0,0,12,1,Europe,65273512
+1000,France,0,0,12,1,Europe,65273512
+1001,France,0,0,12,1,Europe,65273512
+1002,France,0,0,12,1,Europe,65273512
+1003,France,0,0,12,1,Europe,65273512
+1004,France,0,0,12,1,Europe,65273512
+1005,France,2,0,14,1,Europe,65273512
+1006,France,3,1,17,2,Europe,65273512
+1007,France,21,0,38,2,Europe,65273512
+1008,France,19,0,57,2,Europe,65273512
+1009,France,43,0,100,2,Europe,65273512
+1010,France,30,0,130,2,Europe,65273512
+1011,France,48,1,178,3,Europe,65273512
+1012,France,34,1,212,4,Europe,65273512
+1013,France,73,0,285,4,Europe,65273512
+1014,France,138,3,423,7,Europe,65273512
+1015,France,190,2,613,9,Europe,65273512
+1016,France,103,1,716,10,Europe,65273512
+1017,France,410,9,1126,19,Europe,65273512
+1018,France,286,11,1412,30,Europe,65273512
+1019,France,372,3,1784,33,Europe,65273512
+1020,France,497,15,2281,48,Europe,65273512
+1021,France,595,13,2876,61,Europe,65273512
+1022,France,785,18,3661,79,Europe,65273512
+1023,France,838,12,4499,91,Europe,65273512
+1024,France,924,36,5423,127,Europe,65273512
+1025,France,1210,21,6633,148,Europe,65273512
+1026,France,1097,27,7730,175,Europe,65273512
+1027,France,1404,69,9134,244,Europe,65273512
+1028,France,1861,128,10995,372,Europe,65273512
+1029,France,1617,78,12612,450,Europe,65273512
+1030,France,1847,112,14459,562,Europe,65273512
+1031,France,1559,112,16018,674,Europe,65273512
+1032,France,3838,186,19856,860,Europe,65273512
+1033,France,2446,240,22302,1100,Europe,65273512
+1034,France,2931,231,25233,1331,Europe,65273512
+1035,France,3922,365,29155,1696,Europe,65273512
+1036,France,3809,299,32964,1995,Europe,65273512
+1037,France,4611,319,37575,2314,Europe,65273512
+1038,France,2599,292,40174,2606,Europe,65273512
+1039,France,4376,418,44550,3024,Europe,65273512
+1040,France,7578,499,52128,3523,Europe,65273512
+1041,France,4861,509,56989,4032,Europe,65273512
+1042,France,2116,471,59105,4503,Europe,65273512
+1043,France,5233,2004,64338,6507,Europe,65273512
+1044,France,4267,1053,68605,7560,Europe,65273512
+1045,France,1873,518,70478,8078,Europe,65273512
+1046,Georgia,1,0,1,0,Asia,3989175
+1047,Georgia,0,0,1,0,Asia,3989175
+1048,Georgia,1,0,2,0,Asia,3989175
+1049,Georgia,1,0,3,0,Asia,3989175
+1050,Georgia,0,0,3,0,Asia,3989175
+1051,Georgia,0,0,3,0,Asia,3989175
+1052,Georgia,6,0,9,0,Asia,3989175
+1053,Georgia,3,0,12,0,Asia,3989175
+1054,Georgia,1,0,13,0,Asia,3989175
+1055,Georgia,2,0,15,0,Asia,3989175
+1056,Georgia,8,0,23,0,Asia,3989175
+1057,Georgia,1,0,24,0,Asia,3989175
+1058,Georgia,1,0,25,0,Asia,3989175
+1059,Georgia,5,0,30,0,Asia,3989175
+1060,Georgia,0,0,30,0,Asia,3989175
+1061,Georgia,0,0,30,0,Asia,3989175
+1062,Georgia,3,0,33,0,Asia,3989175
+1063,Georgia,1,0,34,0,Asia,3989175
+1064,Georgia,0,0,34,0,Asia,3989175
+1065,Georgia,6,0,40,0,Asia,3989175
+1066,Georgia,3,0,43,0,Asia,3989175
+1067,Georgia,6,0,49,0,Asia,3989175
+1068,Georgia,5,0,54,0,Asia,3989175
+1069,Georgia,7,0,61,0,Asia,3989175
+1070,Georgia,9,0,70,0,Asia,3989175
+1071,Georgia,3,0,73,0,Asia,3989175
+1072,Georgia,6,0,79,0,Asia,3989175
+1073,Georgia,2,0,81,0,Asia,3989175
+1074,Georgia,4,0,85,0,Asia,3989175
+1075,Georgia,5,0,90,0,Asia,3989175
+1076,Georgia,8,0,98,0,Asia,3989175
+1077,Georgia,12,0,110,0,Asia,3989175
+1078,Georgia,5,0,115,0,Asia,3989175
+1079,Georgia,6,0,121,0,Asia,3989175
+1080,Georgia,27,0,148,0,Asia,3989175
+1081,Georgia,9,0,157,0,Asia,3989175
+1082,Georgia,17,2,174,2,Asia,3989175
+1083,Germany,1,0,1,0,Europe,83783945
+1084,Germany,3,0,4,0,Europe,83783945
+1085,Germany,0,0,4,0,Europe,83783945
+1086,Germany,1,0,5,0,Europe,83783945
+1087,Germany,2,0,7,0,Europe,83783945
+1088,Germany,1,0,8,0,Europe,83783945
+1089,Germany,1,0,9,0,Europe,83783945
+1090,Germany,2,0,11,0,Europe,83783945
+1091,Germany,0,0,11,0,Europe,83783945
+1092,Germany,0,0,11,0,Europe,83783945
+1093,Germany,1,0,12,0,Europe,83783945
+1094,Germany,1,0,13,0,Europe,83783945
+1095,Germany,0,0,13,0,Europe,83783945
+1096,Germany,0,0,13,0,Europe,83783945
+1097,Germany,0,0,13,0,Europe,83783945
+1098,Germany,2,0,15,0,Europe,83783945
+1099,Germany,0,0,15,0,Europe,83783945
+1100,Germany,0,0,15,0,Europe,83783945
+1101,Germany,0,0,15,0,Europe,83783945
+1102,Germany,0,0,15,0,Europe,83783945
+1103,Germany,0,0,15,0,Europe,83783945
+1104,Germany,0,0,15,0,Europe,83783945
+1105,Germany,0,0,15,0,Europe,83783945
+1106,Germany,0,0,15,0,Europe,83783945
+1107,Germany,0,0,15,0,Europe,83783945
+1108,Germany,0,0,15,0,Europe,83783945
+1109,Germany,0,0,15,0,Europe,83783945
+1110,Germany,0,0,15,0,Europe,83783945
+1111,Germany,0,0,15,0,Europe,83783945
+1112,Germany,2,0,17,0,Europe,83783945
+1113,Germany,4,0,21,0,Europe,83783945
+1114,Germany,26,0,47,0,Europe,83783945
+1115,Germany,10,0,57,0,Europe,83783945
+1116,Germany,54,0,111,0,Europe,83783945
+1117,Germany,18,0,129,0,Europe,83783945
+1118,Germany,28,0,157,0,Europe,83783945
+1119,Germany,39,0,196,0,Europe,83783945
+1120,Germany,66,0,262,0,Europe,83783945
+1121,Germany,138,0,400,0,Europe,83783945
+1122,Germany,284,0,684,0,Europe,83783945
+1123,Germany,163,0,847,0,Europe,83783945
+1124,Germany,55,0,902,0,Europe,83783945
+1125,Germany,237,2,1139,2,Europe,83783945
+1126,Germany,157,0,1296,2,Europe,83783945
+1127,Germany,271,1,1567,3,Europe,83783945
+1128,Germany,802,2,2369,5,Europe,83783945
+1129,Germany,693,0,3062,5,Europe,83783945
+1130,Germany,733,3,3795,8,Europe,83783945
+1131,Germany,1043,4,4838,12,Europe,83783945
+1132,Germany,1174,1,6012,13,Europe,83783945
+1133,Germany,1144,0,7156,13,Europe,83783945
+1134,Germany,1042,0,8198,13,Europe,83783945
+1135,Germany,5940,30,14138,43,Europe,83783945
+1136,Germany,4049,2,18187,45,Europe,83783945
+1137,Germany,3276,22,21463,67,Europe,83783945
+1138,Germany,3311,27,24774,94,Europe,83783945
+1139,Germany,4438,32,29212,126,Europe,83783945
+1140,Germany,2342,23,31554,149,Europe,83783945
+1141,Germany,4954,49,36508,198,Europe,83783945
+1142,Germany,5780,55,42288,253,Europe,83783945
+1143,Germany,6294,72,48582,325,Europe,83783945
+1144,Germany,3965,64,52547,389,Europe,83783945
+1145,Germany,4751,66,57298,455,Europe,83783945
+1146,Germany,4615,128,61913,583,Europe,83783945
+1147,Germany,5453,149,67366,732,Europe,83783945
+1148,Germany,6156,140,73522,872,Europe,83783945
+1149,Germany,6174,145,79696,1017,Europe,83783945
+1150,Germany,6082,141,85778,1158,Europe,83783945
+1151,Germany,5936,184,91714,1342,Europe,83783945
+1152,Germany,3677,92,95391,1434,Europe,83783945
+1153,Greece,1,0,1,0,Europe,10423056
+1154,Greece,2,0,3,0,Europe,10423056
+1155,Greece,1,0,4,0,Europe,10423056
+1156,Greece,3,0,7,0,Europe,10423056
+1157,Greece,0,0,7,0,Europe,10423056
+1158,Greece,3,0,10,0,Europe,10423056
+1159,Greece,22,0,32,0,Europe,10423056
+1160,Greece,13,0,45,0,Europe,10423056
+1161,Greece,21,0,66,0,Europe,10423056
+1162,Greece,7,0,73,0,Europe,10423056
+1163,Greece,11,0,84,0,Europe,10423056
+1164,Greece,6,0,90,0,Europe,10423056
+1165,Greece,9,1,99,1,Europe,10423056
+1166,Greece,34,0,133,1,Europe,10423056
+1167,Greece,57,0,190,1,Europe,10423056
+1168,Greece,38,2,228,3,Europe,10423056
+1169,Greece,103,1,331,4,Europe,10423056
+1170,Greece,21,0,352,4,Europe,10423056
+1171,Greece,35,1,387,5,Europe,10423056
+1172,Greece,31,0,418,5,Europe,10423056
+1173,Greece,46,0,464,5,Europe,10423056
+1174,Greece,31,3,495,8,Europe,10423056
+1175,Greece,35,5,530,13,Europe,10423056
+1176,Greece,94,2,624,15,Europe,10423056
+1177,Greece,71,2,695,17,Europe,10423056
+1178,Greece,48,3,743,20,Europe,10423056
+1179,Greece,78,2,821,22,Europe,10423056
+1180,Greece,71,4,892,26,Europe,10423056
+1181,Greece,74,2,966,28,Europe,10423056
+1182,Greece,95,4,1061,32,Europe,10423056
+1183,Greece,95,6,1156,38,Europe,10423056
+1184,Greece,56,5,1212,43,Europe,10423056
+1185,Greece,102,6,1314,49,Europe,10423056
+1186,Greece,61,1,1375,50,Europe,10423056
+1187,Greece,139,3,1514,53,Europe,10423056
+1188,Greece,99,6,1613,59,Europe,10423056
+1189,Greece,60,9,1673,68,Europe,10423056
+1190,Greece,62,5,1735,73,Europe,10423056
+1191,Hungary,2,0,2,0,Europe,9660350
+1192,Hungary,2,0,4,0,Europe,9660350
+1193,Hungary,3,0,7,0,Europe,9660350
+1194,Hungary,1,0,8,0,Europe,9660350
+1195,Hungary,1,0,9,0,Europe,9660350
+1196,Hungary,3,0,12,0,Europe,9660350
+1197,Hungary,1,0,13,0,Europe,9660350
+1198,Hungary,3,0,16,0,Europe,9660350
+1199,Hungary,9,0,25,0,Europe,9660350
+1200,Hungary,6,0,31,0,Europe,9660350
+1201,Hungary,8,1,39,1,Europe,9660350
+1202,Hungary,11,0,50,1,Europe,9660350
+1203,Hungary,0,0,50,1,Europe,9660350
+1204,Hungary,23,0,73,1,Europe,9660350
+1205,Hungary,12,0,85,1,Europe,9660350
+1206,Hungary,18,3,103,4,Europe,9660350
+1207,Hungary,28,0,131,4,Europe,9660350
+1208,Hungary,36,3,167,7,Europe,9660350
+1209,Hungary,20,1,187,8,Europe,9660350
+1210,Hungary,39,2,226,10,Europe,9660350
+1211,Hungary,35,0,261,10,Europe,9660350
+1212,Hungary,39,0,300,10,Europe,9660350
+1213,Hungary,43,1,343,11,Europe,9660350
+1214,Hungary,65,2,408,13,Europe,9660350
+1215,Hungary,39,2,447,15,Europe,9660350
+1216,Hungary,0,0,447,15,Europe,9660350
+1217,Hungary,45,1,492,16,Europe,9660350
+1218,Hungary,33,4,525,20,Europe,9660350
+1219,Hungary,60,1,585,21,Europe,9660350
+1220,Hungary,93,11,678,32,Europe,9660350
+1221,Hungary,55,2,733,34,Europe,9660350
+1222,Hungary,11,4,744,38,Europe,9660350
+1223,Iceland,1,0,1,0,Europe,341250
+1224,Iceland,0,0,1,0,Europe,341250
+1225,Iceland,2,0,3,0,Europe,341250
+1226,Iceland,3,0,6,0,Europe,341250
+1227,Iceland,10,0,16,0,Europe,341250
+1228,Iceland,10,0,26,0,Europe,341250
+1229,Iceland,9,0,35,0,Europe,341250
+1230,Iceland,8,0,43,0,Europe,341250
+1231,Iceland,10,0,53,0,Europe,341250
+1232,Iceland,2,0,55,0,Europe,341250
+1233,Iceland,10,0,65,0,Europe,341250
+1234,Iceland,5,0,70,0,Europe,341250
+1235,Iceland,15,0,85,0,Europe,341250
+1236,Iceland,32,0,117,0,Europe,341250
+1237,Iceland,0,0,117,0,Europe,341250
+1238,Iceland,21,0,138,0,Europe,341250
+1239,Iceland,40,0,178,0,Europe,341250
+1240,Iceland,21,0,199,0,Europe,341250
+1241,Iceland,48,0,247,0,Europe,341250
+1242,Iceland,3,0,250,0,Europe,341250
+1243,Iceland,80,1,330,1,Europe,341250
+1244,Iceland,79,0,409,1,Europe,341250
+1245,Iceland,64,0,473,1,Europe,341250
+1246,Iceland,95,0,568,1,Europe,341250
+1247,Iceland,20,1,588,2,Europe,341250
+1248,Iceland,60,0,648,2,Europe,341250
+1249,Iceland,89,0,737,2,Europe,341250
+1250,Iceland,65,0,802,2,Europe,341250
+1251,Iceland,88,0,890,2,Europe,341250
+1252,Iceland,73,0,963,2,Europe,341250
+1253,Iceland,57,0,1020,2,Europe,341250
+1254,Iceland,66,0,1086,2,Europe,341250
+1255,Iceland,49,0,1135,2,Europe,341250
+1256,Iceland,85,0,1220,2,Europe,341250
+1257,Iceland,99,2,1319,4,Europe,341250
+1258,Iceland,45,0,1364,4,Europe,341250
+1259,Iceland,53,0,1417,4,Europe,341250
+1260,Iceland,69,0,1486,4,Europe,341250
+1261,India,1,0,1,0,Asia,1380004385
+1262,India,0,0,1,0,Asia,1380004385
+1263,India,0,0,1,0,Asia,1380004385
+1264,India,1,0,2,0,Asia,1380004385
+1265,India,0,0,2,0,Asia,1380004385
+1266,India,1,0,3,0,Asia,1380004385
+1267,India,0,0,3,0,Asia,1380004385
+1268,India,0,0,3,0,Asia,1380004385
+1269,India,0,0,3,0,Asia,1380004385
+1270,India,0,0,3,0,Asia,1380004385
+1271,India,0,0,3,0,Asia,1380004385
+1272,India,0,0,3,0,Asia,1380004385
+1273,India,0,0,3,0,Asia,1380004385
+1274,India,0,0,3,0,Asia,1380004385
+1275,India,0,0,3,0,Asia,1380004385
+1276,India,0,0,3,0,Asia,1380004385
+1277,India,0,0,3,0,Asia,1380004385
+1278,India,0,0,3,0,Asia,1380004385
+1279,India,0,0,3,0,Asia,1380004385
+1280,India,0,0,3,0,Asia,1380004385
+1281,India,0,0,3,0,Asia,1380004385
+1282,India,0,0,3,0,Asia,1380004385
+1283,India,0,0,3,0,Asia,1380004385
+1284,India,0,0,3,0,Asia,1380004385
+1285,India,0,0,3,0,Asia,1380004385
+1286,India,0,0,3,0,Asia,1380004385
+1287,India,0,0,3,0,Asia,1380004385
+1288,India,0,0,3,0,Asia,1380004385
+1289,India,0,0,3,0,Asia,1380004385
+1290,India,0,0,3,0,Asia,1380004385
+1291,India,0,0,3,0,Asia,1380004385
+1292,India,0,0,3,0,Asia,1380004385
+1293,India,0,0,3,0,Asia,1380004385
+1294,India,2,0,5,0,Asia,1380004385
+1295,India,1,0,6,0,Asia,1380004385
+1296,India,22,0,28,0,Asia,1380004385
+1297,India,1,0,29,0,Asia,1380004385
+1298,India,2,0,31,0,Asia,1380004385
+1299,India,3,0,34,0,Asia,1380004385
+1300,India,10,0,44,0,Asia,1380004385
+1301,India,6,0,50,0,Asia,1380004385
+1302,India,23,0,73,0,Asia,1380004385
+1303,India,2,1,75,1,Asia,1380004385
+1304,India,8,1,83,2,Asia,1380004385
+1305,India,7,0,90,2,Asia,1380004385
+1306,India,3,0,93,2,Asia,1380004385
+1307,India,32,1,125,3,Asia,1380004385
+1308,India,12,0,137,3,Asia,1380004385
+1309,India,28,0,165,3,Asia,1380004385
+1310,India,26,1,191,4,Asia,1380004385
+1311,India,40,0,231,4,Asia,1380004385
+1312,India,89,0,320,4,Asia,1380004385
+1313,India,119,3,439,7,Asia,1380004385
+1314,India,53,2,492,9,Asia,1380004385
+1315,India,70,0,562,9,Asia,1380004385
+1316,India,87,4,649,13,Asia,1380004385
+1317,India,75,4,724,17,Asia,1380004385
+1318,India,149,2,873,19,Asia,1380004385
+1319,India,106,6,979,25,Asia,1380004385
+1320,India,92,4,1071,29,Asia,1380004385
+1321,India,180,3,1251,32,Asia,1380004385
+1322,India,146,3,1397,35,Asia,1380004385
+1323,India,568,15,1965,50,Asia,1380004385
+1324,India,336,6,2301,56,Asia,1380004385
+1325,India,601,12,2902,68,Asia,1380004385
+1326,India,472,9,3374,77,Asia,1380004385
+1327,India,693,32,4067,109,Asia,1380004385
+1328,Iran,2,2,2,2,Asia,83992953
+1329,Iran,3,0,5,2,Asia,83992953
+1330,Iran,13,2,18,4,Asia,83992953
+1331,Iran,10,1,28,5,Asia,83992953
+1332,Iran,15,3,43,8,Asia,83992953
+1333,Iran,18,4,61,12,Asia,83992953
+1334,Iran,34,3,95,15,Asia,83992953
+1335,Iran,44,4,139,19,Asia,83992953
+1336,Iran,106,7,245,26,Asia,83992953
+1337,Iran,143,8,388,34,Asia,83992953
+1338,Iran,205,9,593,43,Asia,83992953
+1339,Iran,385,11,978,54,Asia,83992953
+1340,Iran,523,12,1501,66,Asia,83992953
+1341,Iran,835,11,2336,77,Asia,83992953
+1342,Iran,586,15,2922,92,Asia,83992953
+1343,Iran,591,15,3513,107,Asia,83992953
+1344,Iran,1234,17,4747,124,Asia,83992953
+1345,Iran,1076,21,5823,145,Asia,83992953
+1346,Iran,743,49,6566,194,Asia,83992953
+1347,Iran,595,43,7161,237,Asia,83992953
+1348,Iran,881,54,8042,291,Asia,83992953
+1349,Iran,958,63,9000,354,Asia,83992953
+1350,Iran,1075,75,10075,429,Asia,83992953
+1351,Iran,1289,85,11364,514,Asia,83992953
+1352,Iran,1365,97,12729,611,Asia,83992953
+1353,Iran,1209,113,13938,724,Asia,83992953
+1354,Iran,1053,129,14991,853,Asia,83992953
+1355,Iran,1178,135,16169,988,Asia,83992953
+1356,Iran,1192,147,17361,1135,Asia,83992953
+1357,Iran,1046,149,18407,1284,Asia,83992953
+1358,Iran,1237,149,19644,1433,Asia,83992953
+1359,Iran,966,123,20610,1556,Asia,83992953
+1360,Iran,1028,129,21638,1685,Asia,83992953
+1361,Iran,1411,127,23049,1812,Asia,83992953
+1362,Iran,1762,122,24811,1934,Asia,83992953
+1363,Iran,2206,143,27017,2077,Asia,83992953
+1364,Iran,2389,157,29406,2234,Asia,83992953
+1365,Iran,2926,144,32332,2378,Asia,83992953
+1366,Iran,3076,139,35408,2517,Asia,83992953
+1367,Iran,2901,123,38309,2640,Asia,83992953
+1368,Iran,3186,117,41495,2757,Asia,83992953
+1369,Iran,3111,141,44606,2898,Asia,83992953
+1370,Iran,2987,138,47593,3036,Asia,83992953
+1371,Iran,2875,124,50468,3160,Asia,83992953
+1372,Iran,0,0,50468,3160,Asia,83992953
+1373,Iran,5275,292,55743,3452,Asia,83992953
+1374,Iran,2483,151,58226,3603,Asia,83992953
+1375,Iraq,1,0,1,0,Asia,40222503
+1376,Iraq,4,0,5,0,Asia,40222503
+1377,Iraq,0,0,5,0,Asia,40222503
+1378,Iraq,1,0,6,0,Asia,40222503
+1379,Iraq,1,0,7,0,Asia,40222503
+1380,Iraq,6,0,13,0,Asia,40222503
+1381,Iraq,6,0,19,0,Asia,40222503
+1382,Iraq,2,0,21,0,Asia,40222503
+1383,Iraq,5,0,26,0,Asia,40222503
+1384,Iraq,5,0,31,0,Asia,40222503
+1385,Iraq,7,2,38,2,Asia,40222503
+1386,Iraq,16,0,54,2,Asia,40222503
+1387,Iraq,7,4,61,6,Asia,40222503
+1388,Iraq,0,0,61,6,Asia,40222503
+1389,Iraq,9,2,70,8,Asia,40222503
+1390,Iraq,4,0,74,8,Asia,40222503
+1391,Iraq,11,1,85,9,Asia,40222503
+1392,Iraq,0,0,85,9,Asia,40222503
+1393,Iraq,39,0,124,9,Asia,40222503
+1394,Iraq,0,0,124,9,Asia,40222503
+1395,Iraq,30,2,154,11,Asia,40222503
+1396,Iraq,10,1,164,12,Asia,40222503
+1397,Iraq,13,0,177,12,Asia,40222503
+1398,Iraq,16,2,193,14,Asia,40222503
+1399,Iraq,21,3,214,17,Asia,40222503
+1400,Iraq,19,3,233,20,Asia,40222503
+1401,Iraq,33,3,266,23,Asia,40222503
+1402,Iraq,50,4,316,27,Asia,40222503
+1403,Iraq,30,2,346,29,Asia,40222503
+1404,Iraq,36,7,382,36,Asia,40222503
+1405,Iraq,76,4,458,40,Asia,40222503
+1406,Iraq,48,2,506,42,Asia,40222503
+1407,Iraq,41,0,547,42,Asia,40222503
+1408,Iraq,83,4,630,46,Asia,40222503
+1409,Iraq,64,4,694,50,Asia,40222503
+1410,Iraq,0,0,694,50,Asia,40222503
+1411,Iraq,78,4,772,54,Asia,40222503
+1412,Iraq,0,0,772,54,Asia,40222503
+1413,Iraq,106,2,878,56,Asia,40222503
+1414,Iraq,83,5,961,61,Asia,40222503
+1415,Ireland,1,0,1,0,Europe,4937796
+1416,Ireland,0,0,1,0,Europe,4937796
+1417,Ireland,1,0,2,0,Europe,4937796
+1418,Ireland,4,0,6,0,Europe,4937796
+1419,Ireland,7,0,13,0,Europe,4937796
+1420,Ireland,5,0,18,0,Europe,4937796
+1421,Ireland,1,0,19,0,Europe,4937796
+1422,Ireland,2,0,21,0,Europe,4937796
+1423,Ireland,14,0,35,0,Europe,4937796
+1424,Ireland,8,1,43,1,Europe,4937796
+1425,Ireland,27,0,70,1,Europe,4937796
+1426,Ireland,21,0,91,1,Europe,4937796
+1427,Ireland,38,1,129,2,Europe,4937796
+1428,Ireland,40,0,169,2,Europe,4937796
+1429,Ireland,54,0,223,2,Europe,4937796
+1430,Ireland,69,0,292,2,Europe,4937796
+1431,Ireland,74,0,366,2,Europe,4937796
+1432,Ireland,191,1,557,3,Europe,4937796
+1433,Ireland,126,0,683,3,Europe,4937796
+1434,Ireland,102,0,785,3,Europe,4937796
+1435,Ireland,121,1,906,4,Europe,4937796
+1436,Ireland,219,2,1125,6,Europe,4937796
+1437,Ireland,204,1,1329,7,Europe,4937796
+1438,Ireland,235,2,1564,9,Europe,4937796
+1439,Ireland,255,10,1819,19,Europe,4937796
+1440,Ireland,302,3,2121,22,Europe,4937796
+1441,Ireland,294,14,2415,36,Europe,4937796
+1442,Ireland,200,10,2615,46,Europe,4937796
+1443,Ireland,295,8,2910,54,Europe,4937796
+1444,Ireland,325,17,3235,71,Europe,4937796
+1445,Ireland,212,14,3447,85,Europe,4937796
+1446,Ireland,402,13,3849,98,Europe,4937796
+1447,Ireland,424,22,4273,120,Europe,4937796
+1448,Ireland,331,17,4604,137,Europe,4937796
+1449,Ireland,507,21,5111,158,Europe,4937796
+1450,Israel,1,0,1,0,Asia,8655541
+1451,Israel,0,0,1,0,Asia,8655541
+1452,Israel,1,0,2,0,Asia,8655541
+1453,Israel,0,0,2,0,Asia,8655541
+1454,Israel,0,0,2,0,Asia,8655541
+1455,Israel,0,0,2,0,Asia,8655541
+1456,Israel,1,0,3,0,Asia,8655541
+1457,Israel,4,0,7,0,Asia,8655541
+1458,Israel,0,0,7,0,Asia,8655541
+1459,Israel,3,0,10,0,Asia,8655541
+1460,Israel,5,0,15,0,Asia,8655541
+1461,Israel,2,0,17,0,Asia,8655541
+1462,Israel,2,0,19,0,Asia,8655541
+1463,Israel,6,0,25,0,Asia,8655541
+1464,Israel,14,0,39,0,Asia,8655541
+1465,Israel,31,0,70,0,Asia,8655541
+1466,Israel,12,0,82,0,Asia,8655541
+1467,Israel,14,0,96,0,Asia,8655541
+1468,Israel,20,0,116,0,Asia,8655541
+1469,Israel,62,0,178,0,Asia,8655541
+1470,Israel,72,0,250,0,Asia,8655541
+1471,Israel,10,0,260,0,Asia,8655541
+1472,Israel,167,0,427,0,Asia,8655541
+1473,Israel,6,0,433,0,Asia,8655541
+1474,Israel,244,0,677,0,Asia,8655541
+1475,Israel,35,1,712,1,Asia,8655541
+1476,Israel,171,0,883,1,Asia,8655541
+1477,Israel,188,0,1071,1,Asia,8655541
+1478,Israel,371,0,1442,1,Asia,8655541
+1479,Israel,488,2,1930,3,Asia,8655541
+1480,Israel,439,2,2369,5,Asia,8655541
+1481,Israel,297,3,2666,8,Asia,8655541
+1482,Israel,369,2,3035,10,Asia,8655541
+1483,Israel,584,2,3619,12,Asia,8655541
+1484,Israel,628,3,4247,15,Asia,8655541
+1485,Israel,226,2,4473,17,Asia,8655541
+1486,Israel,443,3,4916,20,Asia,8655541
+1487,Israel,675,1,5591,21,Asia,8655541
+1488,Israel,661,13,6252,34,Asia,8655541
+1489,Israel,1176,5,7428,39,Asia,8655541
+1490,Israel,590,7,8018,46,Asia,8655541
+1491,Israel,412,3,8430,49,Asia,8655541
+1492,Italy,3,0,3,0,Europe,60461828
+1493,Italy,0,0,3,0,Europe,60461828
+1494,Italy,0,0,3,0,Europe,60461828
+1495,Italy,0,0,3,0,Europe,60461828
+1496,Italy,0,0,3,0,Europe,60461828
+1497,Italy,0,0,3,0,Europe,60461828
+1498,Italy,0,0,3,0,Europe,60461828
+1499,Italy,0,0,3,0,Europe,60461828
+1500,Italy,0,0,3,0,Europe,60461828
+1501,Italy,0,0,3,0,Europe,60461828
+1502,Italy,0,0,3,0,Europe,60461828
+1503,Italy,0,0,3,0,Europe,60461828
+1504,Italy,0,0,3,0,Europe,60461828
+1505,Italy,0,0,3,0,Europe,60461828
+1506,Italy,0,0,3,0,Europe,60461828
+1507,Italy,0,0,3,0,Europe,60461828
+1508,Italy,0,0,3,0,Europe,60461828
+1509,Italy,0,0,3,0,Europe,60461828
+1510,Italy,0,0,3,0,Europe,60461828
+1511,Italy,0,0,3,0,Europe,60461828
+1512,Italy,0,0,3,0,Europe,60461828
+1513,Italy,0,0,3,0,Europe,60461828
+1514,Italy,14,0,17,0,Europe,60461828
+1515,Italy,62,2,79,2,Europe,60461828
+1516,Italy,53,0,132,2,Europe,60461828
+1517,Italy,97,4,229,6,Europe,60461828
+1518,Italy,93,5,322,11,Europe,60461828
+1519,Italy,78,1,400,12,Europe,60461828
+1520,Italy,250,5,650,17,Europe,60461828
+1521,Italy,238,4,888,21,Europe,60461828
+1522,Italy,240,8,1128,29,Europe,60461828
+1523,Italy,561,6,1689,35,Europe,60461828
+1524,Italy,146,17,1835,52,Europe,60461828
+1525,Italy,667,28,2502,80,Europe,60461828
+1526,Italy,587,27,3089,107,Europe,60461828
+1527,Italy,769,41,3858,148,Europe,60461828
+1528,Italy,778,49,4636,197,Europe,60461828
+1529,Italy,1247,36,5883,233,Europe,60461828
+1530,Italy,1492,133,7375,366,Europe,60461828
+1531,Italy,1797,98,9172,464,Europe,60461828
+1532,Italy,977,167,10149,631,Europe,60461828
+1533,Italy,2313,196,12462,827,Europe,60461828
+1534,Italy,2651,189,15113,1016,Europe,60461828
+1535,Italy,2547,252,17660,1268,Europe,60461828
+1536,Italy,90,173,17750,1441,Europe,60461828
+1537,Italy,6230,370,23980,1811,Europe,60461828
+1538,Italy,4000,347,27980,2158,Europe,60461828
+1539,Italy,3526,347,31506,2505,Europe,60461828
+1540,Italy,4207,473,35713,2978,Europe,60461828
+1541,Italy,5322,429,41035,3407,Europe,60461828
+1542,Italy,5986,625,47021,4032,Europe,60461828
+1543,Italy,6557,795,53578,4827,Europe,60461828
+1544,Italy,5560,649,59138,5476,Europe,60461828
+1545,Italy,4789,601,63927,6077,Europe,60461828
+1546,Italy,5249,743,69176,6820,Europe,60461828
+1547,Italy,5210,685,74386,7505,Europe,60461828
+1548,Italy,6153,660,80539,8165,Europe,60461828
+1549,Italy,5959,971,86498,9136,Europe,60461828
+1550,Italy,5974,887,92472,10023,Europe,60461828
+1551,Italy,5217,758,97689,10781,Europe,60461828
+1552,Italy,4050,810,101739,11591,Europe,60461828
+1553,Italy,4053,839,105792,12430,Europe,60461828
+1554,Italy,4782,727,110574,13157,Europe,60461828
+1555,Italy,4668,760,115242,13917,Europe,60461828
+1556,Italy,4585,764,119827,14681,Europe,60461828
+1557,Italy,4805,681,124632,15362,Europe,60461828
+1558,Italy,4316,527,128948,15889,Europe,60461828
+1559,Japan,1,0,1,0,Asia,126476458
+1560,Japan,0,0,1,0,Asia,126476458
+1561,Japan,0,0,1,0,Asia,126476458
+1562,Japan,0,0,1,0,Asia,126476458
+1563,Japan,0,0,1,0,Asia,126476458
+1564,Japan,0,0,1,0,Asia,126476458
+1565,Japan,0,0,1,0,Asia,126476458
+1566,Japan,0,0,1,0,Asia,126476458
+1567,Japan,0,0,1,0,Asia,126476458
+1568,Japan,1,0,2,0,Asia,126476458
+1569,Japan,0,0,2,0,Asia,126476458
+1570,Japan,1,0,3,0,Asia,126476458
+1571,Japan,0,0,3,0,Asia,126476458
+1572,Japan,1,0,4,0,Asia,126476458
+1573,Japan,3,0,7,0,Asia,126476458
+1574,Japan,4,0,11,0,Asia,126476458
+1575,Japan,3,0,14,0,Asia,126476458
+1576,Japan,1,0,15,0,Asia,126476458
+1577,Japan,4,0,19,0,Asia,126476458
+1578,Japan,1,0,20,0,Asia,126476458
+1579,Japan,0,0,20,0,Asia,126476458
+1580,Japan,5,0,25,0,Asia,126476458
+1581,Japan,0,0,25,0,Asia,126476458
+1582,Japan,0,0,25,0,Asia,126476458
+1583,Japan,0,0,25,0,Asia,126476458
+1584,Japan,0,0,25,0,Asia,126476458
+1585,Japan,0,0,25,0,Asia,126476458
+1586,Japan,0,0,25,0,Asia,126476458
+1587,Japan,0,0,25,0,Asia,126476458
+1588,Japan,4,1,29,1,Asia,126476458
+1589,Japan,1,0,30,1,Asia,126476458
+1590,Japan,8,0,38,1,Asia,126476458
+1591,Japan,14,0,52,1,Asia,126476458
+1592,Japan,7,0,59,1,Asia,126476458
+1593,Japan,0,0,59,1,Asia,126476458
+1594,Japan,7,0,66,1,Asia,126476458
+1595,Japan,18,0,84,1,Asia,126476458
+1596,Japan,9,0,93,1,Asia,126476458
+1597,Japan,12,0,105,1,Asia,126476458
+1598,Japan,27,0,132,1,Asia,126476458
+1599,Japan,12,0,144,1,Asia,126476458
+1600,Japan,0,0,144,1,Asia,126476458
+1601,Japan,20,0,164,1,Asia,126476458
+1602,Japan,22,2,186,3,Asia,126476458
+1603,Japan,24,0,210,3,Asia,126476458
+1604,Japan,20,0,230,3,Asia,126476458
+1605,Japan,9,2,239,5,Asia,126476458
+1606,Japan,15,1,254,6,Asia,126476458
+1607,Japan,0,0,254,6,Asia,126476458
+1608,Japan,14,0,268,6,Asia,126476458
+1609,Japan,49,0,317,6,Asia,126476458
+1610,Japan,32,0,349,6,Asia,126476458
+1611,Japan,59,0,408,6,Asia,126476458
+1612,Japan,47,0,455,6,Asia,126476458
+1613,Japan,33,1,488,7,Asia,126476458
+1614,Japan,26,2,514,9,Asia,126476458
+1615,Japan,54,3,568,12,Asia,126476458
+1616,Japan,51,3,619,15,Asia,126476458
+1617,Japan,56,4,675,19,Asia,126476458
+1618,Japan,62,2,737,21,Asia,126476458
+1619,Japan,43,1,780,22,Asia,126476458
+1620,Japan,34,2,814,24,Asia,126476458
+1621,Japan,10,4,824,28,Asia,126476458
+1622,Japan,5,0,829,28,Asia,126476458
+1623,Japan,44,1,873,29,Asia,126476458
+1624,Japan,77,4,950,33,Asia,126476458
+1625,Japan,57,2,1007,35,Asia,126476458
+1626,Japan,39,1,1046,36,Asia,126476458
+1627,Japan,43,5,1089,41,Asia,126476458
+1628,Japan,39,1,1128,42,Asia,126476458
+1629,Japan,65,1,1193,43,Asia,126476458
+1630,Japan,75,2,1268,45,Asia,126476458
+1631,Japan,96,1,1364,46,Asia,126476458
+1632,Japan,135,3,1499,49,Asia,126476458
+1633,Japan,194,3,1693,52,Asia,126476458
+1634,Japan,173,2,1866,54,Asia,126476458
+1635,Japan,87,2,1953,56,Asia,126476458
+1636,Japan,0,0,1953,56,Asia,126476458
+1637,Japan,225,1,2178,57,Asia,126476458
+1638,Japan,439,6,2617,63,Asia,126476458
+1639,Japan,318,6,2935,69,Asia,126476458
+1640,Japan,336,1,3271,70,Asia,126476458
+1641,Japan,383,3,3654,73,Asia,126476458
+1642,Kuwait,3,0,3,0,Asia,4270563
+1643,Kuwait,2,0,5,0,Asia,4270563
+1644,Kuwait,6,0,11,0,Asia,4270563
+1645,Kuwait,15,0,26,0,Asia,4270563
+1646,Kuwait,17,0,43,0,Asia,4270563
+1647,Kuwait,2,0,45,0,Asia,4270563
+1648,Kuwait,0,0,45,0,Asia,4270563
+1649,Kuwait,1,0,46,0,Asia,4270563
+1650,Kuwait,10,0,56,0,Asia,4270563
+1651,Kuwait,2,0,58,0,Asia,4270563
+1652,Kuwait,3,0,61,0,Asia,4270563
+1653,Kuwait,3,0,64,0,Asia,4270563
+1654,Kuwait,1,0,65,0,Asia,4270563
+1655,Kuwait,4,0,69,0,Asia,4270563
+1656,Kuwait,3,0,72,0,Asia,4270563
+1657,Kuwait,8,0,80,0,Asia,4270563
+1658,Kuwait,20,0,100,0,Asia,4270563
+1659,Kuwait,4,0,104,0,Asia,4270563
+1660,Kuwait,8,0,112,0,Asia,4270563
+1661,Kuwait,11,0,123,0,Asia,4270563
+1662,Kuwait,7,0,130,0,Asia,4270563
+1663,Kuwait,12,0,142,0,Asia,4270563
+1664,Kuwait,6,0,148,0,Asia,4270563
+1665,Kuwait,11,0,159,0,Asia,4270563
+1666,Kuwait,17,0,176,0,Asia,4270563
+1667,Kuwait,12,0,188,0,Asia,4270563
+1668,Kuwait,1,0,189,0,Asia,4270563
+1669,Kuwait,2,0,191,0,Asia,4270563
+1670,Kuwait,4,0,195,0,Asia,4270563
+1671,Kuwait,13,0,208,0,Asia,4270563
+1672,Kuwait,17,0,225,0,Asia,4270563
+1673,Kuwait,10,0,235,0,Asia,4270563
+1674,Kuwait,20,0,255,0,Asia,4270563
+1675,Kuwait,11,0,266,0,Asia,4270563
+1676,Kuwait,23,0,289,0,Asia,4270563
+1677,Kuwait,28,0,317,0,Asia,4270563
+1678,Kuwait,25,0,342,0,Asia,4270563
+1679,Kuwait,0,0,342,0,Asia,4270563
+1680,Kuwait,137,1,479,1,Asia,4270563
+1681,Kuwait,77,0,556,1,Asia,4270563
+1682,Latvia,1,0,1,0,Europe,1886202
+1683,Latvia,1,0,2,0,Europe,1886202
+1684,Latvia,1,0,3,0,Europe,1886202
+1685,Latvia,3,0,6,0,Europe,1886202
+1686,Latvia,2,0,8,0,Europe,1886202
+1687,Latvia,2,0,10,0,Europe,1886202
+1688,Latvia,6,0,16,0,Europe,1886202
+1689,Latvia,3,0,19,0,Europe,1886202
+1690,Latvia,7,0,26,0,Europe,1886202
+1691,Latvia,5,0,31,0,Europe,1886202
+1692,Latvia,5,0,36,0,Europe,1886202
+1693,Latvia,25,0,61,0,Europe,1886202
+1694,Latvia,10,0,71,0,Europe,1886202
+1695,Latvia,15,0,86,0,Europe,1886202
+1696,Latvia,25,0,111,0,Europe,1886202
+1697,Latvia,13,0,124,0,Europe,1886202
+1698,Latvia,15,0,139,0,Europe,1886202
+1699,Latvia,41,0,180,0,Europe,1886202
+1700,Latvia,17,0,197,0,Europe,1886202
+1701,Latvia,24,0,221,0,Europe,1886202
+1702,Latvia,23,0,244,0,Europe,1886202
+1703,Latvia,36,0,280,0,Europe,1886202
+1704,Latvia,25,0,305,0,Europe,1886202
+1705,Latvia,71,0,376,0,Europe,1886202
+1706,Latvia,0,0,376,0,Europe,1886202
+1707,Latvia,22,0,398,0,Europe,1886202
+1708,Latvia,48,0,446,0,Europe,1886202
+1709,Latvia,12,0,458,0,Europe,1886202
+1710,Latvia,35,1,493,1,Europe,1886202
+1711,Latvia,16,0,509,1,Europe,1886202
+1712,Latvia,24,0,533,1,Europe,1886202
+1713,Lebanon,1,0,1,0,Asia,6825442
+1714,Lebanon,0,0,1,0,Asia,6825442
+1715,Lebanon,0,0,1,0,Asia,6825442
+1716,Lebanon,0,0,1,0,Asia,6825442
+1717,Lebanon,0,0,1,0,Asia,6825442
+1718,Lebanon,1,0,2,0,Asia,6825442
+1719,Lebanon,1,0,3,0,Asia,6825442
+1720,Lebanon,0,0,3,0,Asia,6825442
+1721,Lebanon,1,0,4,0,Asia,6825442
+1722,Lebanon,6,0,10,0,Asia,6825442
+1723,Lebanon,3,0,13,0,Asia,6825442
+1724,Lebanon,3,0,16,0,Asia,6825442
+1725,Lebanon,6,0,22,0,Asia,6825442
+1726,Lebanon,10,0,32,0,Asia,6825442
+1727,Lebanon,9,0,41,0,Asia,6825442
+1728,Lebanon,0,1,41,1,Asia,6825442
+1729,Lebanon,20,1,61,2,Asia,6825442
+1730,Lebanon,5,0,66,2,Asia,6825442
+1731,Lebanon,27,1,93,3,Asia,6825442
+1732,Lebanon,6,0,99,3,Asia,6825442
+1733,Lebanon,21,0,120,3,Asia,6825442
+1734,Lebanon,0,0,120,3,Asia,6825442
+1735,Lebanon,13,1,133,4,Asia,6825442
+1736,Lebanon,16,0,149,4,Asia,6825442
+1737,Lebanon,14,0,163,4,Asia,6825442
+1738,Lebanon,67,0,230,4,Asia,6825442
+1739,Lebanon,18,0,248,4,Asia,6825442
+1740,Lebanon,19,0,267,4,Asia,6825442
+1741,Lebanon,37,0,304,4,Asia,6825442
+1742,Lebanon,29,0,333,4,Asia,6825442
+1743,Lebanon,35,2,368,6,Asia,6825442
+1744,Lebanon,23,1,391,7,Asia,6825442
+1745,Lebanon,21,1,412,8,Asia,6825442
+1746,Lebanon,26,2,438,10,Asia,6825442
+1747,Lebanon,8,1,446,11,Asia,6825442
+1748,Lebanon,17,1,463,12,Asia,6825442
+1749,Lebanon,16,0,479,12,Asia,6825442
+1750,Lebanon,15,4,494,16,Asia,6825442
+1751,Lebanon,0,0,494,16,Asia,6825442
+1752,Lebanon,26,1,520,17,Asia,6825442
+1753,Lebanon,7,1,527,18,Asia,6825442
+1754,North_Macedonia,1,0,1,0,Europe,2083380
+1755,North_Macedonia,0,0,1,0,Europe,2083380
+1756,North_Macedonia,0,0,1,0,Europe,2083380
+1757,North_Macedonia,0,0,1,0,Europe,2083380
+1758,North_Macedonia,0,0,1,0,Europe,2083380
+1759,North_Macedonia,2,0,3,0,Europe,2083380
+1760,North_Macedonia,4,0,7,0,Europe,2083380
+1761,North_Macedonia,2,0,9,0,Europe,2083380
+1762,North_Macedonia,4,0,13,0,Europe,2083380
+1763,North_Macedonia,0,0,13,0,Europe,2083380
+1764,North_Macedonia,6,0,19,0,Europe,2083380
+1765,North_Macedonia,12,0,31,0,Europe,2083380
+1766,North_Macedonia,11,0,42,0,Europe,2083380
+1767,North_Macedonia,6,0,48,0,Europe,2083380
+1768,North_Macedonia,22,0,70,0,Europe,2083380
+1769,North_Macedonia,15,0,85,0,Europe,2083380
+1770,North_Macedonia,29,1,114,1,Europe,2083380
+1771,North_Macedonia,22,1,136,2,Europe,2083380
+1772,North_Macedonia,12,0,148,2,Europe,2083380
+1773,North_Macedonia,29,0,177,2,Europe,2083380
+1774,North_Macedonia,24,1,201,3,Europe,2083380
+1775,North_Macedonia,18,0,219,3,Europe,2083380
+1776,North_Macedonia,22,1,241,4,Europe,2083380
+1777,North_Macedonia,18,2,259,6,Europe,2083380
+1778,North_Macedonia,26,1,285,7,Europe,2083380
+1779,North_Macedonia,44,2,329,9,Europe,2083380
+1780,North_Macedonia,25,1,354,10,Europe,2083380
+1781,North_Macedonia,0,1,354,11,Europe,2083380
+1782,North_Macedonia,76,1,430,12,Europe,2083380
+1783,North_Macedonia,53,5,483,17,Europe,2083380
+1784,North_Macedonia,0,0,483,17,Europe,2083380
+1785,Malaysia,3,0,3,0,Asia,32365998
+1786,Malaysia,1,0,4,0,Asia,32365998
+1787,Malaysia,0,0,4,0,Asia,32365998
+1788,Malaysia,0,0,4,0,Asia,32365998
+1789,Malaysia,3,0,7,0,Asia,32365998
+1790,Malaysia,0,0,7,0,Asia,32365998
+1791,Malaysia,1,0,8,0,Asia,32365998
+1792,Malaysia,0,0,8,0,Asia,32365998
+1793,Malaysia,0,0,8,0,Asia,32365998
+1794,Malaysia,0,0,8,0,Asia,32365998
+1795,Malaysia,0,0,8,0,Asia,32365998
+1796,Malaysia,2,0,10,0,Asia,32365998
+1797,Malaysia,2,0,12,0,Asia,32365998
+1798,Malaysia,2,0,14,0,Asia,32365998
+1799,Malaysia,1,0,15,0,Asia,32365998
+1800,Malaysia,1,0,16,0,Asia,32365998
+1801,Malaysia,2,0,18,0,Asia,32365998
+1802,Malaysia,0,0,18,0,Asia,32365998
+1803,Malaysia,0,0,18,0,Asia,32365998
+1804,Malaysia,0,0,18,0,Asia,32365998
+1805,Malaysia,1,0,19,0,Asia,32365998
+1806,Malaysia,2,0,21,0,Asia,32365998
+1807,Malaysia,1,0,22,0,Asia,32365998
+1808,Malaysia,0,0,22,0,Asia,32365998
+1809,Malaysia,0,0,22,0,Asia,32365998
+1810,Malaysia,0,0,22,0,Asia,32365998
+1811,Malaysia,0,0,22,0,Asia,32365998
+1812,Malaysia,0,0,22,0,Asia,32365998
+1813,Malaysia,0,0,22,0,Asia,32365998
+1814,Malaysia,0,0,22,0,Asia,32365998
+1815,Malaysia,0,0,22,0,Asia,32365998
+1816,Malaysia,0,0,22,0,Asia,32365998
+1817,Malaysia,0,0,22,0,Asia,32365998
+1818,Malaysia,0,0,22,0,Asia,32365998
+1819,Malaysia,1,0,23,0,Asia,32365998
+1820,Malaysia,2,0,25,0,Asia,32365998
+1821,Malaysia,0,0,25,0,Asia,32365998
+1822,Malaysia,4,0,29,0,Asia,32365998
+1823,Malaysia,7,0,36,0,Asia,32365998
+1824,Malaysia,14,0,50,0,Asia,32365998
+1825,Malaysia,0,0,50,0,Asia,32365998
+1826,Malaysia,33,0,83,0,Asia,32365998
+1827,Malaysia,10,0,93,0,Asia,32365998
+1828,Malaysia,6,0,99,0,Asia,32365998
+1829,Malaysia,18,0,117,0,Asia,32365998
+1830,Malaysia,12,0,129,0,Asia,32365998
+1831,Malaysia,20,0,149,0,Asia,32365998
+1832,Malaysia,9,0,158,0,Asia,32365998
+1833,Malaysia,39,0,197,0,Asia,32365998
+1834,Malaysia,41,0,238,0,Asia,32365998
+1835,Malaysia,190,0,428,0,Asia,32365998
+1836,Malaysia,125,0,553,0,Asia,32365998
+1837,Malaysia,120,2,673,2,Asia,32365998
+1838,Malaysia,117,0,790,2,Asia,32365998
+1839,Malaysia,110,0,900,2,Asia,32365998
+1840,Malaysia,130,0,1030,2,Asia,32365998
+1841,Malaysia,153,2,1183,4,Asia,32365998
+1842,Malaysia,123,6,1306,10,Asia,32365998
+1843,Malaysia,212,4,1518,14,Asia,32365998
+1844,Malaysia,106,1,1624,15,Asia,32365998
+1845,Malaysia,172,4,1796,19,Asia,32365998
+1846,Malaysia,235,4,2031,23,Asia,32365998
+1847,Malaysia,130,3,2161,26,Asia,32365998
+1848,Malaysia,159,1,2320,27,Asia,32365998
+1849,Malaysia,150,7,2470,34,Asia,32365998
+1850,Malaysia,156,3,2626,37,Asia,32365998
+1851,Malaysia,0,0,2626,37,Asia,32365998
+1852,Malaysia,282,8,2908,45,Asia,32365998
+1853,Malaysia,208,5,3116,50,Asia,32365998
+1854,Malaysia,217,3,3333,53,Asia,32365998
+1855,Malaysia,150,4,3483,57,Asia,32365998
+1856,Malaysia,179,4,3662,61,Asia,32365998
+1857,Nepal,1,0,1,0,Asia,29136808
+1858,Nepal,0,0,1,0,Asia,29136808
+1859,Nepal,0,0,1,0,Asia,29136808
+1860,Nepal,0,0,1,0,Asia,29136808
+1861,Nepal,0,0,1,0,Asia,29136808
+1862,Nepal,0,0,1,0,Asia,29136808
+1863,Nepal,0,0,1,0,Asia,29136808
+1864,Nepal,0,0,1,0,Asia,29136808
+1865,Nepal,0,0,1,0,Asia,29136808
+1866,Nepal,0,0,1,0,Asia,29136808
+1867,Nepal,0,0,1,0,Asia,29136808
+1868,Nepal,0,0,1,0,Asia,29136808
+1869,Nepal,0,0,1,0,Asia,29136808
+1870,Nepal,0,0,1,0,Asia,29136808
+1871,Nepal,0,0,1,0,Asia,29136808
+1872,Nepal,0,0,1,0,Asia,29136808
+1873,Nepal,0,0,1,0,Asia,29136808
+1874,Nepal,0,0,1,0,Asia,29136808
+1875,Nepal,0,0,1,0,Asia,29136808
+1876,Nepal,0,0,1,0,Asia,29136808
+1877,Nepal,0,0,1,0,Asia,29136808
+1878,Nepal,0,0,1,0,Asia,29136808
+1879,Nepal,0,0,1,0,Asia,29136808
+1880,Nepal,0,0,1,0,Asia,29136808
+1881,Nepal,0,0,1,0,Asia,29136808
+1882,Nepal,0,0,1,0,Asia,29136808
+1883,Nepal,0,0,1,0,Asia,29136808
+1884,Nepal,0,0,1,0,Asia,29136808
+1885,Nepal,0,0,1,0,Asia,29136808
+1886,Nepal,0,0,1,0,Asia,29136808
+1887,Nepal,0,0,1,0,Asia,29136808
+1888,Nepal,0,0,1,0,Asia,29136808
+1889,Nepal,0,0,1,0,Asia,29136808
+1890,Nepal,0,0,1,0,Asia,29136808
+1891,Nepal,0,0,1,0,Asia,29136808
+1892,Nepal,0,0,1,0,Asia,29136808
+1893,Nepal,0,0,1,0,Asia,29136808
+1894,Nepal,0,0,1,0,Asia,29136808
+1895,Nepal,0,0,1,0,Asia,29136808
+1896,Nepal,0,0,1,0,Asia,29136808
+1897,Nepal,0,0,1,0,Asia,29136808
+1898,Nepal,0,0,1,0,Asia,29136808
+1899,Nepal,0,0,1,0,Asia,29136808
+1900,Nepal,0,0,1,0,Asia,29136808
+1901,Nepal,0,0,1,0,Asia,29136808
+1902,Nepal,0,0,1,0,Asia,29136808
+1903,Nepal,1,0,2,0,Asia,29136808
+1904,Nepal,1,0,3,0,Asia,29136808
+1905,Nepal,0,0,3,0,Asia,29136808
+1906,Nepal,0,0,3,0,Asia,29136808
+1907,Nepal,0,0,3,0,Asia,29136808
+1908,Nepal,2,0,5,0,Asia,29136808
+1909,Nepal,0,0,5,0,Asia,29136808
+1910,Nepal,0,0,5,0,Asia,29136808
+1911,Nepal,0,0,5,0,Asia,29136808
+1912,Nepal,0,0,5,0,Asia,29136808
+1913,Nepal,0,0,5,0,Asia,29136808
+1914,Nepal,1,0,6,0,Asia,29136808
+1915,Nepal,0,0,6,0,Asia,29136808
+1916,Nepal,3,0,9,0,Asia,29136808
+1917,Netherlands,1,0,1,0,Europe,17134873
+1918,Netherlands,1,0,2,0,Europe,17134873
+1919,Netherlands,5,0,7,0,Europe,17134873
+1920,Netherlands,6,0,13,0,Europe,17134873
+1921,Netherlands,5,0,18,0,Europe,17134873
+1922,Netherlands,10,0,28,0,Europe,17134873
+1923,Netherlands,10,0,38,0,Europe,17134873
+1924,Netherlands,44,0,82,0,Europe,17134873
+1925,Netherlands,46,1,128,1,Europe,17134873
+1926,Netherlands,60,0,188,1,Europe,17134873
+1927,Netherlands,77,2,265,3,Europe,17134873
+1928,Netherlands,56,0,321,3,Europe,17134873
+1929,Netherlands,61,1,382,4,Europe,17134873
+1930,Netherlands,121,1,503,5,Europe,17134873
+1931,Netherlands,111,0,614,5,Europe,17134873
+1932,Netherlands,190,0,804,5,Europe,17134873
+1933,Netherlands,155,7,959,12,Europe,17134873
+1934,Netherlands,176,8,1135,20,Europe,17134873
+1935,Netherlands,278,4,1413,24,Europe,17134873
+1936,Netherlands,292,19,1705,43,Europe,17134873
+1937,Netherlands,346,15,2051,58,Europe,17134873
+1938,Netherlands,409,18,2460,76,Europe,17134873
+1939,Netherlands,534,30,2994,106,Europe,17134873
+1940,Netherlands,637,30,3631,136,Europe,17134873
+1941,Netherlands,573,43,4204,179,Europe,17134873
+1942,Netherlands,545,34,4749,213,Europe,17134873
+1943,Netherlands,811,63,5560,276,Europe,17134873
+1944,Netherlands,852,80,6412,356,Europe,17134873
+1945,Netherlands,1019,78,7431,434,Europe,17134873
+1946,Netherlands,1172,112,8603,546,Europe,17134873
+1947,Netherlands,1159,93,9762,639,Europe,17134873
+1948,Netherlands,1104,132,10866,771,Europe,17134873
+1949,Netherlands,884,93,11750,864,Europe,17134873
+1950,Netherlands,845,175,12595,1039,Europe,17134873
+1951,Netherlands,1019,134,13614,1173,Europe,17134873
+1952,Netherlands,1083,166,14697,1339,Europe,17134873
+1953,Netherlands,1026,148,15723,1487,Europe,17134873
+1954,Netherlands,904,164,16627,1651,Europe,17134873
+1955,Norway,1,0,1,0,Europe,5421242
+1956,Norway,3,0,4,0,Europe,5421242
+1957,Norway,2,0,6,0,Europe,5421242
+1958,Norway,9,0,15,0,Europe,5421242
+1959,Norway,4,0,19,0,Europe,5421242
+1960,Norway,6,0,25,0,Europe,5421242
+1961,Norway,8,0,33,0,Europe,5421242
+1962,Norway,23,0,56,0,Europe,5421242
+1963,Norway,30,0,86,0,Europe,5421242
+1964,Norway,27,0,113,0,Europe,5421242
+1965,Norway,34,0,147,0,Europe,5421242
+1966,Norway,22,0,169,0,Europe,5421242
+1967,Norway,23,0,192,0,Europe,5421242
+1968,Norway,85,0,277,0,Europe,5421242
+1969,Norway,212,0,489,0,Europe,5421242
+1970,Norway,132,1,621,1,Europe,5421242
+1971,Norway,0,0,621,1,Europe,5421242
+1972,Norway,286,0,907,1,Europe,5421242
+1973,Norway,170,0,1077,1,Europe,5421242
+1974,Norway,92,2,1169,3,Europe,5421242
+1975,Norway,139,0,1308,3,Europe,5421242
+1976,Norway,115,0,1423,3,Europe,5421242
+1977,Norway,129,3,1552,6,Europe,5421242
+1978,Norway,190,1,1742,7,Europe,5421242
+1979,Norway,184,0,1926,7,Europe,5421242
+1980,Norway,206,0,2132,7,Europe,5421242
+1981,Norway,239,1,2371,8,Europe,5421242
+1982,Norway,195,2,2566,10,Europe,5421242
+1983,Norway,350,2,2916,12,Europe,5421242
+1984,Norway,240,2,3156,14,Europe,5421242
+1985,Norway,425,2,3581,16,Europe,5421242
+1986,Norway,264,4,3845,20,Europe,5421242
+1987,Norway,257,2,4102,22,Europe,5421242
+1988,Norway,124,4,4226,26,Europe,5421242
+1989,Norway,221,2,4447,28,Europe,5421242
+1990,Norway,218,4,4665,32,Europe,5421242
+1991,Norway,270,10,4935,42,Europe,5421242
+1992,Norway,273,2,5208,44,Europe,5421242
+1993,Norway,302,6,5510,50,Europe,5421242
+1994,Norway,130,8,5640,58,Europe,5421242
+1995,Oman,2,0,2,0,Asia,5106622
+1996,Oman,2,0,4,0,Asia,5106622
+1997,Oman,0,0,4,0,Asia,5106622
+1998,Oman,2,0,6,0,Asia,5106622
+1999,Oman,0,0,6,0,Asia,5106622
+2000,Oman,0,0,6,0,Asia,5106622
+2001,Oman,0,0,6,0,Asia,5106622
+2002,Oman,1,0,7,0,Asia,5106622
+2003,Oman,8,0,15,0,Asia,5106622
+2004,Oman,1,0,16,0,Asia,5106622
+2005,Oman,2,0,18,0,Asia,5106622
+2006,Oman,0,0,18,0,Asia,5106622
+2007,Oman,2,0,20,0,Asia,5106622
+2008,Oman,0,0,20,0,Asia,5106622
+2009,Oman,2,0,22,0,Asia,5106622
+2010,Oman,2,0,24,0,Asia,5106622
+2011,Oman,0,0,24,0,Asia,5106622
+2012,Oman,15,0,39,0,Asia,5106622
+2013,Oman,0,0,39,0,Asia,5106622
+2014,Oman,9,0,48,0,Asia,5106622
+2015,Oman,4,0,52,0,Asia,5106622
+2016,Oman,3,0,55,0,Asia,5106622
+2017,Oman,11,0,66,0,Asia,5106622
+2018,Oman,18,0,84,0,Asia,5106622
+2019,Oman,15,0,99,0,Asia,5106622
+2020,Oman,10,0,109,0,Asia,5106622
+2021,Oman,22,0,131,0,Asia,5106622
+2022,Oman,21,0,152,0,Asia,5106622
+2023,Oman,15,0,167,0,Asia,5106622
+2024,Oman,12,0,179,0,Asia,5106622
+2025,Oman,13,1,192,1,Asia,5106622
+2026,Oman,18,0,210,1,Asia,5106622
+2027,Oman,21,0,231,1,Asia,5106622
+2028,Oman,0,0,231,1,Asia,5106622
+2029,Oman,46,1,277,2,Asia,5106622
+2030,Oman,21,0,298,2,Asia,5106622
+2031,Pakistan,2,0,2,0,Asia,220892331
+2032,Pakistan,0,0,2,0,Asia,220892331
+2033,Pakistan,0,0,2,0,Asia,220892331
+2034,Pakistan,2,0,4,0,Asia,220892331
+2035,Pakistan,0,0,4,0,Asia,220892331
+2036,Pakistan,1,0,5,0,Asia,220892331
+2037,Pakistan,1,0,6,0,Asia,220892331
+2038,Pakistan,10,0,16,0,Asia,220892331
+2039,Pakistan,0,0,16,0,Asia,220892331
+2040,Pakistan,4,0,20,0,Asia,220892331
+2041,Pakistan,1,0,21,0,Asia,220892331
+2042,Pakistan,0,0,21,0,Asia,220892331
+2043,Pakistan,9,0,30,0,Asia,220892331
+2044,Pakistan,1,0,31,0,Asia,220892331
+2045,Pakistan,156,0,187,0,Asia,220892331
+2046,Pakistan,0,0,187,0,Asia,220892331
+2047,Pakistan,115,0,302,0,Asia,220892331
+2048,Pakistan,176,2,478,2,Asia,220892331
+2049,Pakistan,17,1,495,3,Asia,220892331
+2050,Pakistan,151,0,646,3,Asia,220892331
+2051,Pakistan,138,2,784,5,Asia,220892331
+2052,Pakistan,103,1,887,6,Asia,220892331
+2053,Pakistan,104,1,991,7,Asia,220892331
+2054,Pakistan,66,1,1057,8,Asia,220892331
+2055,Pakistan,140,1,1197,9,Asia,220892331
+2056,Pakistan,0,0,1197,9,Asia,220892331
+2057,Pakistan,211,2,1408,11,Asia,220892331
+2058,Pakistan,118,2,1526,13,Asia,220892331
+2059,Pakistan,99,5,1625,18,Asia,220892331
+2060,Pakistan,414,8,2039,26,Asia,220892331
+2061,Pakistan,252,5,2291,31,Asia,220892331
+2062,Pakistan,0,0,2291,31,Asia,220892331
+2063,Pakistan,0,0,2291,31,Asia,220892331
+2064,Pakistan,159,4,2450,35,Asia,220892331
+2065,Pakistan,827,15,3277,50,Asia,220892331
+2066,Philippines,1,0,1,0,Asia,109581085
+2067,Philippines,0,0,1,0,Asia,109581085
+2068,Philippines,0,0,1,0,Asia,109581085
+2069,Philippines,1,1,2,1,Asia,109581085
+2070,Philippines,0,0,2,1,Asia,109581085
+2071,Philippines,0,0,2,1,Asia,109581085
+2072,Philippines,0,0,2,1,Asia,109581085
+2073,Philippines,1,0,3,1,Asia,109581085
+2074,Philippines,0,0,3,1,Asia,109581085
+2075,Philippines,0,0,3,1,Asia,109581085
+2076,Philippines,0,0,3,1,Asia,109581085
+2077,Philippines,0,0,3,1,Asia,109581085
+2078,Philippines,0,0,3,1,Asia,109581085
+2079,Philippines,0,0,3,1,Asia,109581085
+2080,Philippines,0,0,3,1,Asia,109581085
+2081,Philippines,0,0,3,1,Asia,109581085
+2082,Philippines,0,0,3,1,Asia,109581085
+2083,Philippines,0,0,3,1,Asia,109581085
+2084,Philippines,0,0,3,1,Asia,109581085
+2085,Philippines,0,0,3,1,Asia,109581085
+2086,Philippines,0,0,3,1,Asia,109581085
+2087,Philippines,0,0,3,1,Asia,109581085
+2088,Philippines,0,0,3,1,Asia,109581085
+2089,Philippines,0,0,3,1,Asia,109581085
+2090,Philippines,0,0,3,1,Asia,109581085
+2091,Philippines,0,0,3,1,Asia,109581085
+2092,Philippines,0,0,3,1,Asia,109581085
+2093,Philippines,0,0,3,1,Asia,109581085
+2094,Philippines,0,0,3,1,Asia,109581085
+2095,Philippines,0,0,3,1,Asia,109581085
+2096,Philippines,0,0,3,1,Asia,109581085
+2097,Philippines,0,0,3,1,Asia,109581085
+2098,Philippines,0,0,3,1,Asia,109581085
+2099,Philippines,2,0,5,1,Asia,109581085
+2100,Philippines,1,0,6,1,Asia,109581085
+2101,Philippines,4,0,10,1,Asia,109581085
+2102,Philippines,23,0,33,1,Asia,109581085
+2103,Philippines,0,0,33,1,Asia,109581085
+2104,Philippines,16,1,49,2,Asia,109581085
+2105,Philippines,3,0,52,2,Asia,109581085
+2106,Philippines,12,4,64,6,Asia,109581085
+2107,Philippines,47,0,111,6,Asia,109581085
+2108,Philippines,29,6,140,12,Asia,109581085
+2109,Philippines,2,0,142,12,Asia,109581085
+2110,Philippines,45,2,187,14,Asia,109581085
+2111,Philippines,15,3,202,17,Asia,109581085
+2112,Philippines,28,1,230,18,Asia,109581085
+2113,Philippines,0,0,230,18,Asia,109581085
+2114,Philippines,150,7,380,25,Asia,109581085
+2115,Philippines,0,0,380,25,Asia,109581085
+2116,Philippines,82,8,462,33,Asia,109581085
+2117,Philippines,90,2,552,35,Asia,109581085
+2118,Philippines,84,3,636,38,Asia,109581085
+2119,Philippines,71,7,707,45,Asia,109581085
+2120,Philippines,96,9,803,54,Asia,109581085
+2121,Philippines,272,14,1075,68,Asia,109581085
+2122,Philippines,343,3,1418,71,Asia,109581085
+2123,Philippines,666,17,2084,88,Asia,109581085
+2124,Philippines,0,0,2084,88,Asia,109581085
+2125,Philippines,227,8,2311,96,Asia,109581085
+2126,Philippines,322,11,2633,107,Asia,109581085
+2127,Philippines,385,29,3018,136,Asia,109581085
+2128,Philippines,76,8,3094,144,Asia,109581085
+2129,Philippines,152,8,3246,152,Asia,109581085
+2130,Poland,1,0,1,0,Europe,37846605
+2131,Poland,4,0,5,0,Europe,37846605
+2132,Poland,1,0,6,0,Europe,37846605
+2133,Poland,5,0,11,0,Europe,37846605
+2134,Poland,6,0,17,0,Europe,37846605
+2135,Poland,5,0,22,0,Europe,37846605
+2136,Poland,9,0,31,0,Europe,37846605
+2137,Poland,18,1,49,1,Europe,37846605
+2138,Poland,19,1,68,2,Europe,37846605
+2139,Poland,36,1,104,3,Europe,37846605
+2140,Poland,21,0,125,3,Europe,37846605
+2141,Poland,52,1,177,4,Europe,37846605
+2142,Poland,61,1,238,5,Europe,37846605
+2143,Poland,49,0,287,5,Europe,37846605
+2144,Poland,68,0,355,5,Europe,37846605
+2145,Poland,70,0,425,5,Europe,37846605
+2146,Poland,111,0,536,5,Europe,37846605
+2147,Poland,98,2,634,7,Europe,37846605
+2148,Poland,115,1,749,8,Europe,37846605
+2149,Poland,152,2,901,10,Europe,37846605
+2150,Poland,150,4,1051,14,Europe,37846605
+2151,Poland,170,2,1221,16,Europe,37846605
+2152,Poland,168,0,1389,16,Europe,37846605
+2153,Poland,249,2,1638,18,Europe,37846605
+2154,Poland,224,4,1862,22,Europe,37846605
+2155,Poland,193,9,2055,31,Europe,37846605
+2156,Poland,256,2,2311,33,Europe,37846605
+2157,Poland,243,10,2554,43,Europe,37846605
+2158,Poland,392,14,2946,57,Europe,37846605
+2159,Poland,437,14,3383,71,Europe,37846605
+2160,Poland,244,8,3627,79,Europe,37846605
+2161,Poland,475,15,4102,94,Europe,37846605
+2162,Portugal,2,0,2,0,Europe,10196707
+2163,Portugal,2,0,4,0,Europe,10196707
+2164,Portugal,1,0,5,0,Europe,10196707
+2165,Portugal,4,0,9,0,Europe,10196707
+2166,Portugal,4,0,13,0,Europe,10196707
+2167,Portugal,8,0,21,0,Europe,10196707
+2168,Portugal,9,0,30,0,Europe,10196707
+2169,Portugal,9,0,39,0,Europe,10196707
+2170,Portugal,2,0,41,0,Europe,10196707
+2171,Portugal,18,0,59,0,Europe,10196707
+2172,Portugal,19,0,78,0,Europe,10196707
+2173,Portugal,34,0,112,0,Europe,10196707
+2174,Portugal,57,0,169,0,Europe,10196707
+2175,Portugal,76,0,245,0,Europe,10196707
+2176,Portugal,86,0,331,0,Europe,10196707
+2177,Portugal,117,1,448,1,Europe,10196707
+2178,Portugal,194,1,642,2,Europe,10196707
+2179,Portugal,143,1,785,3,Europe,10196707
+2180,Portugal,235,3,1020,6,Europe,10196707
+2181,Portugal,260,6,1280,12,Europe,10196707
+2182,Portugal,320,2,1600,14,Europe,10196707
+2183,Portugal,460,9,2060,23,Europe,10196707
+2184,Portugal,302,10,2362,33,Europe,10196707
+2185,Portugal,633,10,2995,43,Europe,10196707
+2186,Portugal,549,17,3544,60,Europe,10196707
+2187,Portugal,724,16,4268,76,Europe,10196707
+2188,Portugal,902,24,5170,100,Europe,10196707
+2189,Portugal,792,19,5962,119,Europe,10196707
+2190,Portugal,446,21,6408,140,Europe,10196707
+2191,Portugal,1035,20,7443,160,Europe,10196707
+2192,Portugal,808,27,8251,187,Europe,10196707
+2193,Portugal,783,22,9034,209,Europe,10196707
+2194,Portugal,852,37,9886,246,Europe,10196707
+2195,Portugal,638,20,10524,266,Europe,10196707
+2196,Portugal,754,29,11278,295,Europe,10196707
+2197,Qatar,1,0,1,0,Asia,2881060
+2198,Qatar,2,0,3,0,Asia,2881060
+2199,Qatar,5,0,8,0,Asia,2881060
+2200,Qatar,3,0,11,0,Asia,2881060
+2201,Qatar,1,0,12,0,Asia,2881060
+2202,Qatar,3,0,15,0,Asia,2881060
+2203,Qatar,3,0,18,0,Asia,2881060
+2204,Qatar,6,0,24,0,Asia,2881060
+2205,Qatar,238,0,262,0,Asia,2881060
+2206,Qatar,58,0,320,0,Asia,2881060
+2207,Qatar,17,0,337,0,Asia,2881060
+2208,Qatar,64,0,401,0,Asia,2881060
+2209,Qatar,38,0,439,0,Asia,2881060
+2210,Qatar,3,0,442,0,Asia,2881060
+2211,Qatar,10,0,452,0,Asia,2881060
+2212,Qatar,8,0,460,0,Asia,2881060
+2213,Qatar,10,0,470,0,Asia,2881060
+2214,Qatar,11,0,481,0,Asia,2881060
+2215,Qatar,13,0,494,0,Asia,2881060
+2216,Qatar,7,0,501,0,Asia,2881060
+2217,Qatar,25,0,526,0,Asia,2881060
+2218,Qatar,11,0,537,0,Asia,2881060
+2219,Qatar,12,0,549,0,Asia,2881060
+2220,Qatar,13,0,562,0,Asia,2881060
+2221,Qatar,28,1,590,1,Asia,2881060
+2222,Qatar,44,0,634,1,Asia,2881060
+2223,Qatar,59,0,693,1,Asia,2881060
+2224,Qatar,88,1,781,2,Asia,2881060
+2225,Qatar,54,0,835,2,Asia,2881060
+2226,Qatar,114,1,949,3,Asia,2881060
+2227,Qatar,0,0,949,3,Asia,2881060
+2228,Qatar,376,0,1325,3,Asia,2881060
+2229,Qatar,279,1,1604,4,Asia,2881060
+2230,Romania,1,0,1,0,Europe,19237682
+2231,Romania,0,0,1,0,Europe,19237682
+2232,Romania,2,0,3,0,Europe,19237682
+2233,Romania,0,0,3,0,Europe,19237682
+2234,Romania,0,0,3,0,Europe,19237682
+2235,Romania,1,0,4,0,Europe,19237682
+2236,Romania,2,0,6,0,Europe,19237682
+2237,Romania,1,0,7,0,Europe,19237682
+2238,Romania,6,0,13,0,Europe,19237682
+2239,Romania,2,0,15,0,Europe,19237682
+2240,Romania,2,0,17,0,Europe,19237682
+2241,Romania,8,0,25,0,Europe,19237682
+2242,Romania,20,0,45,0,Europe,19237682
+2243,Romania,19,0,64,0,Europe,19237682
+2244,Romania,25,0,89,0,Europe,19237682
+2245,Romania,24,0,113,0,Europe,19237682
+2246,Romania,26,0,139,0,Europe,19237682
+2247,Romania,45,0,184,0,Europe,19237682
+2248,Romania,33,0,217,0,Europe,19237682
+2249,Romania,43,0,260,0,Europe,19237682
+2250,Romania,17,0,277,0,Europe,19237682
+2251,Romania,31,0,308,0,Europe,19237682
+2252,Romania,59,0,367,0,Europe,19237682
+2253,Romania,66,2,433,2,Europe,19237682
+2254,Romania,143,5,576,7,Europe,19237682
+2255,Romania,186,4,762,11,Europe,19237682
+2256,Romania,144,2,906,13,Europe,19237682
+2257,Romania,123,4,1029,17,Europe,19237682
+2258,Romania,263,7,1292,24,Europe,19237682
+2259,Romania,160,5,1452,29,Europe,19237682
+2260,Romania,308,11,1760,40,Europe,19237682
+2261,Romania,192,4,1952,44,Europe,19237682
+2262,Romania,293,25,2245,69,Europe,19237682
+2263,Romania,215,16,2460,85,Europe,19237682
+2264,Romania,278,9,2738,94,Europe,19237682
+2265,Romania,445,39,3183,133,Europe,19237682
+2266,Romania,430,8,3613,141,Europe,19237682
+2267,Romania,251,7,3864,148,Europe,19237682
+2268,Russia,2,0,2,0,Europe,145934460
+2269,Russia,0,0,2,0,Europe,145934460
+2270,Russia,0,0,2,0,Europe,145934460
+2271,Russia,0,0,2,0,Europe,145934460
+2272,Russia,0,0,2,0,Europe,145934460
+2273,Russia,0,0,2,0,Europe,145934460
+2274,Russia,0,0,2,0,Europe,145934460
+2275,Russia,0,0,2,0,Europe,145934460
+2276,Russia,0,0,2,0,Europe,145934460
+2277,Russia,0,0,2,0,Europe,145934460
+2278,Russia,0,0,2,0,Europe,145934460
+2279,Russia,0,0,2,0,Europe,145934460
+2280,Russia,0,0,2,0,Europe,145934460
+2281,Russia,0,0,2,0,Europe,145934460
+2282,Russia,0,0,2,0,Europe,145934460
+2283,Russia,0,0,2,0,Europe,145934460
+2284,Russia,0,0,2,0,Europe,145934460
+2285,Russia,0,0,2,0,Europe,145934460
+2286,Russia,0,0,2,0,Europe,145934460
+2287,Russia,0,0,2,0,Europe,145934460
+2288,Russia,0,0,2,0,Europe,145934460
+2289,Russia,0,0,2,0,Europe,145934460
+2290,Russia,0,0,2,0,Europe,145934460
+2291,Russia,0,0,2,0,Europe,145934460
+2292,Russia,0,0,2,0,Europe,145934460
+2293,Russia,0,0,2,0,Europe,145934460
+2294,Russia,0,0,2,0,Europe,145934460
+2295,Russia,0,0,2,0,Europe,145934460
+2296,Russia,0,0,2,0,Europe,145934460
+2297,Russia,0,0,2,0,Europe,145934460
+2298,Russia,0,0,2,0,Europe,145934460
+2299,Russia,1,0,3,0,Europe,145934460
+2300,Russia,1,0,4,0,Europe,145934460
+2301,Russia,6,0,10,0,Europe,145934460
+2302,Russia,0,0,10,0,Europe,145934460
+2303,Russia,15,0,25,0,Europe,145934460
+2304,Russia,5,0,30,0,Europe,145934460
+2305,Russia,15,0,45,0,Europe,145934460
+2306,Russia,14,0,59,0,Europe,145934460
+2307,Russia,4,0,63,0,Europe,145934460
+2308,Russia,30,0,93,0,Europe,145934460
+2309,Russia,21,0,114,0,Europe,145934460
+2310,Russia,33,0,147,0,Europe,145934460
+2311,Russia,52,0,199,0,Europe,145934460
+2312,Russia,54,0,253,0,Europe,145934460
+2313,Russia,53,0,306,0,Europe,145934460
+2314,Russia,132,0,438,0,Europe,145934460
+2315,Russia,0,0,438,0,Europe,145934460
+2316,Russia,57,0,495,0,Europe,145934460
+2317,Russia,163,0,658,0,Europe,145934460
+2318,Russia,182,2,840,2,Europe,145934460
+2319,Russia,196,2,1036,4,Europe,145934460
+2320,Russia,228,1,1264,5,Europe,145934460
+2321,Russia,270,3,1534,8,Europe,145934460
+2322,Russia,302,2,1836,10,Europe,145934460
+2323,Russia,501,7,2337,17,Europe,145934460
+2324,Russia,440,7,2777,24,Europe,145934460
+2325,Russia,771,6,3548,30,Europe,145934460
+2326,Russia,601,4,4149,34,Europe,145934460
+2327,Russia,582,9,4731,43,Europe,145934460
+2328,Russia,658,2,5389,45,Europe,145934460
+2329,San Marino,1,0,1,0,Europe,33938
+2330,San Marino,0,0,1,0,Europe,33938
+2331,San Marino,0,0,1,0,Europe,33938
+2332,San Marino,7,1,8,1,Europe,33938
+2333,San Marino,2,0,10,1,Europe,33938
+2334,San Marino,5,0,15,1,Europe,33938
+2335,San Marino,7,0,22,1,Europe,33938
+2336,San Marino,1,0,23,1,Europe,33938
+2337,San Marino,3,0,26,1,Europe,33938
+2338,San Marino,11,0,37,1,Europe,33938
+2339,San Marino,12,1,49,2,Europe,33938
+2340,San Marino,13,0,62,2,Europe,33938
+2341,San Marino,4,1,66,3,Europe,33938
+2342,San Marino,1,2,67,5,Europe,33938
+2343,San Marino,6,0,73,5,Europe,33938
+2344,San Marino,19,0,92,5,Europe,33938
+2345,San Marino,6,2,98,7,Europe,33938
+2346,San Marino,4,2,102,9,Europe,33938
+2347,San Marino,2,2,104,11,Europe,33938
+2348,San Marino,5,3,109,14,Europe,33938
+2349,San Marino,17,0,126,14,Europe,33938
+2350,San Marino,25,0,151,14,Europe,33938
+2351,San Marino,0,6,151,20,Europe,33938
+2352,San Marino,0,0,151,20,Europe,33938
+2353,San Marino,36,0,187,20,Europe,33938
+2354,San Marino,0,1,187,21,Europe,33938
+2355,San Marino,21,0,208,21,Europe,33938
+2356,San Marino,10,0,218,21,Europe,33938
+2357,San Marino,5,0,223,21,Europe,33938
+2358,San Marino,1,1,224,22,Europe,33938
+2359,San Marino,5,2,229,24,Europe,33938
+2360,San Marino,0,1,229,25,Europe,33938
+2361,San Marino,1,1,230,26,Europe,33938
+2362,San Marino,6,0,236,26,Europe,33938
+2363,San Marino,9,4,245,30,Europe,33938
+2364,San Marino,6,2,251,32,Europe,33938
+2365,San Marino,8,0,259,32,Europe,33938
+2366,San Marino,7,0,266,32,Europe,33938
+2367,Saudi Arabia,1,0,1,0,Asia,34813867
+2368,Saudi Arabia,4,0,5,0,Asia,34813867
+2369,Saudi Arabia,2,0,7,0,Asia,34813867
+2370,Saudi Arabia,4,0,11,0,Asia,34813867
+2371,Saudi Arabia,4,0,15,0,Asia,34813867
+2372,Saudi Arabia,5,0,20,0,Asia,34813867
+2373,Saudi Arabia,25,0,45,0,Asia,34813867
+2374,Saudi Arabia,17,0,62,0,Asia,34813867
+2375,Saudi Arabia,24,0,86,0,Asia,34813867
+2376,Saudi Arabia,0,0,86,0,Asia,34813867
+2377,Saudi Arabia,32,0,118,0,Asia,34813867
+2378,Saudi Arabia,15,0,133,0,Asia,34813867
+2379,Saudi Arabia,0,0,133,0,Asia,34813867
+2380,Saudi Arabia,38,0,171,0,Asia,34813867
+2381,Saudi Arabia,67,0,238,0,Asia,34813867
+2382,Saudi Arabia,36,0,274,0,Asia,34813867
+2383,Saudi Arabia,118,0,392,0,Asia,34813867
+2384,Saudi Arabia,119,0,511,0,Asia,34813867
+2385,Saudi Arabia,51,0,562,0,Asia,34813867
+2386,Saudi Arabia,205,1,767,1,Asia,34813867
+2387,Saudi Arabia,133,1,900,2,Asia,34813867
+2388,Saudi Arabia,112,1,1012,3,Asia,34813867
+2389,Saudi Arabia,92,0,1104,3,Asia,34813867
+2390,Saudi Arabia,99,1,1203,4,Asia,34813867
+2391,Saudi Arabia,26,4,1229,8,Asia,34813867
+2392,Saudi Arabia,224,0,1453,8,Asia,34813867
+2393,Saudi Arabia,110,2,1563,10,Asia,34813867
+2394,Saudi Arabia,157,6,1720,16,Asia,34813867
+2395,Saudi Arabia,165,5,1885,21,Asia,34813867
+2396,Saudi Arabia,0,0,1885,21,Asia,34813867
+2397,Saudi Arabia,294,8,2179,29,Asia,34813867
+2398,Saudi Arabia,206,5,2385,34,Asia,34813867
+2399,Singapore,3,0,3,0,Asia,5850343
+2400,Singapore,0,0,3,0,Asia,5850343
+2401,Singapore,1,0,4,0,Asia,5850343
+2402,Singapore,0,0,4,0,Asia,5850343
+2403,Singapore,1,0,5,0,Asia,5850343
+2404,Singapore,2,0,7,0,Asia,5850343
+2405,Singapore,3,0,10,0,Asia,5850343
+2406,Singapore,3,0,13,0,Asia,5850343
+2407,Singapore,3,0,16,0,Asia,5850343
+2408,Singapore,2,0,18,0,Asia,5850343
+2409,Singapore,0,0,18,0,Asia,5850343
+2410,Singapore,0,0,18,0,Asia,5850343
+2411,Singapore,6,0,24,0,Asia,5850343
+2412,Singapore,4,0,28,0,Asia,5850343
+2413,Singapore,2,0,30,0,Asia,5850343
+2414,Singapore,3,0,33,0,Asia,5850343
+2415,Singapore,7,0,40,0,Asia,5850343
+2416,Singapore,3,0,43,0,Asia,5850343
+2417,Singapore,2,0,45,0,Asia,5850343
+2418,Singapore,2,0,47,0,Asia,5850343
+2419,Singapore,3,0,50,0,Asia,5850343
+2420,Singapore,8,0,58,0,Asia,5850343
+2421,Singapore,9,0,67,0,Asia,5850343
+2422,Singapore,5,0,72,0,Asia,5850343
+2423,Singapore,3,0,75,0,Asia,5850343
+2424,Singapore,2,0,77,0,Asia,5850343
+2425,Singapore,4,0,81,0,Asia,5850343
+2426,Singapore,3,0,84,0,Asia,5850343
+2427,Singapore,1,0,85,0,Asia,5850343
+2428,Singapore,1,0,86,0,Asia,5850343
+2429,Singapore,3,0,89,0,Asia,5850343
+2430,Singapore,0,0,89,0,Asia,5850343
+2431,Singapore,1,0,90,0,Asia,5850343
+2432,Singapore,1,0,91,0,Asia,5850343
+2433,Singapore,2,0,93,0,Asia,5850343
+2434,Singapore,3,0,96,0,Asia,5850343
+2435,Singapore,2,0,98,0,Asia,5850343
+2436,Singapore,4,0,102,0,Asia,5850343
+2437,Singapore,4,0,106,0,Asia,5850343
+2438,Singapore,2,0,108,0,Asia,5850343
+2439,Singapore,2,0,110,0,Asia,5850343
+2440,Singapore,2,0,112,0,Asia,5850343
+2441,Singapore,5,0,117,0,Asia,5850343
+2442,Singapore,13,0,130,0,Asia,5850343
+2443,Singapore,8,0,138,0,Asia,5850343
+2444,Singapore,12,0,150,0,Asia,5850343
+2445,Singapore,10,0,160,0,Asia,5850343
+2446,Singapore,6,0,166,0,Asia,5850343
+2447,Singapore,12,0,178,0,Asia,5850343
+2448,Singapore,9,0,187,0,Asia,5850343
+2449,Singapore,13,0,200,0,Asia,5850343
+2450,Singapore,14,0,214,0,Asia,5850343
+2451,Singapore,12,0,226,0,Asia,5850343
+2452,Singapore,17,0,243,0,Asia,5850343
+2453,Singapore,23,0,266,0,Asia,5850343
+2454,Singapore,47,0,313,0,Asia,5850343
+2455,Singapore,32,0,345,0,Asia,5850343
+2456,Singapore,40,0,385,0,Asia,5850343
+2457,Singapore,47,2,432,2,Asia,5850343
+2458,Singapore,23,0,455,2,Asia,5850343
+2459,Singapore,54,0,509,2,Asia,5850343
+2460,Singapore,49,0,558,2,Asia,5850343
+2461,Singapore,10,0,568,2,Asia,5850343
+2462,Singapore,26,0,594,2,Asia,5850343
+2463,Singapore,138,0,732,2,Asia,5850343
+2464,Singapore,71,1,803,3,Asia,5850343
+2465,Singapore,41,0,844,3,Asia,5850343
+2466,Singapore,0,0,844,3,Asia,5850343
+2467,Singapore,35,0,879,3,Asia,5850343
+2468,Singapore,121,1,1000,4,Asia,5850343
+2469,Singapore,49,1,1049,5,Asia,5850343
+2470,Singapore,65,0,1114,5,Asia,5850343
+2471,Singapore,75,1,1189,6,Asia,5850343
+2472,Singapore,120,0,1309,6,Asia,5850343
+2473,Slovenia,1,0,1,0,Europe,2078932
+2474,Slovenia,5,0,6,0,Europe,2078932
+2475,Slovenia,3,0,9,0,Europe,2078932
+2476,Slovenia,3,0,12,0,Europe,2078932
+2477,Slovenia,4,0,16,0,Europe,2078932
+2478,Slovenia,15,0,31,0,Europe,2078932
+2479,Slovenia,26,0,57,0,Europe,2078932
+2480,Slovenia,39,0,96,0,Europe,2078932
+2481,Slovenia,45,0,141,0,Europe,2078932
+2482,Slovenia,40,0,181,0,Europe,2078932
+2483,Slovenia,38,0,219,0,Europe,2078932
+2484,Slovenia,34,0,253,0,Europe,2078932
+2485,Slovenia,22,1,275,1,Europe,2078932
+2486,Slovenia,11,0,286,1,Europe,2078932
+2487,Slovenia,33,0,319,1,Europe,2078932
+2488,Slovenia,22,0,341,1,Europe,2078932
+2489,Slovenia,42,0,383,1,Europe,2078932
+2490,Slovenia,31,0,414,1,Europe,2078932
+2491,Slovenia,28,0,442,1,Europe,2078932
+2492,Slovenia,38,2,480,3,Europe,2078932
+2493,Slovenia,48,1,528,4,Europe,2078932
+2494,Slovenia,49,1,577,5,Europe,2078932
+2495,Slovenia,55,4,632,9,Europe,2078932
+2496,Slovenia,59,0,691,9,Europe,2078932
+2497,Slovenia,39,2,730,11,Europe,2078932
+2498,Slovenia,33,0,763,11,Europe,2078932
+2499,Slovenia,51,2,814,13,Europe,2078932
+2500,Slovenia,27,2,841,15,Europe,2078932
+2501,Slovenia,56,1,897,16,Europe,2078932
+2502,Slovenia,37,4,934,20,Europe,2078932
+2503,Slovenia,43,2,977,22,Europe,2078932
+2504,Slovenia,20,6,997,28,Europe,2078932
+2505,South Korea,1,0,1,0,Asia,51269183
+2506,South Korea,0,0,1,0,Asia,51269183
+2507,South Korea,0,0,1,0,Asia,51269183
+2508,South Korea,0,0,1,0,Asia,51269183
+2509,South Korea,1,0,2,0,Asia,51269183
+2510,South Korea,0,0,2,0,Asia,51269183
+2511,South Korea,1,0,3,0,Asia,51269183
+2512,South Korea,1,0,4,0,Asia,51269183
+2513,South Korea,0,0,4,0,Asia,51269183
+2514,South Korea,0,0,4,0,Asia,51269183
+2515,South Korea,0,0,4,0,Asia,51269183
+2516,South Korea,3,0,7,0,Asia,51269183
+2517,South Korea,5,0,12,0,Asia,51269183
+2518,South Korea,3,0,15,0,Asia,51269183
+2519,South Korea,0,0,15,0,Asia,51269183
+2520,South Korea,1,0,16,0,Asia,51269183
+2521,South Korea,2,0,18,0,Asia,51269183
+2522,South Korea,5,0,23,0,Asia,51269183
+2523,South Korea,1,0,24,0,Asia,51269183
+2524,South Korea,0,0,24,0,Asia,51269183
+2525,South Korea,1,0,25,0,Asia,51269183
+2526,South Korea,2,0,27,0,Asia,51269183
+2527,South Korea,1,0,28,0,Asia,51269183
+2528,South Korea,0,0,28,0,Asia,51269183
+2529,South Korea,0,0,28,0,Asia,51269183
+2530,South Korea,0,0,28,0,Asia,51269183
+2531,South Korea,0,0,28,0,Asia,51269183
+2532,South Korea,1,0,29,0,Asia,51269183
+2533,South Korea,1,0,30,0,Asia,51269183
+2534,South Korea,1,0,31,0,Asia,51269183
+2535,South Korea,15,0,46,0,Asia,51269183
+2536,South Korea,34,0,80,0,Asia,51269183
+2537,South Korea,75,1,155,1,Asia,51269183
+2538,South Korea,190,1,345,2,Asia,51269183
+2539,South Korea,256,3,601,5,Asia,51269183
+2540,South Korea,161,2,762,7,Asia,51269183
+2541,South Korea,130,1,892,8,Asia,51269183
+2542,South Korea,254,3,1146,11,Asia,51269183
+2543,South Korea,449,1,1595,12,Asia,51269183
+2544,South Korea,427,1,2022,13,Asia,51269183
+2545,South Korea,909,3,2931,16,Asia,51269183
+2546,South Korea,595,1,3526,17,Asia,51269183
+2547,South Korea,686,5,4212,22,Asia,51269183
+2548,South Korea,600,6,4812,28,Asia,51269183
+2549,South Korea,516,4,5328,32,Asia,51269183
+2550,South Korea,438,3,5766,35,Asia,51269183
+2551,South Korea,518,7,6284,42,Asia,51269183
+2552,South Korea,483,2,6767,44,Asia,51269183
+2553,South Korea,367,6,7134,50,Asia,51269183
+2554,South Korea,248,1,7382,51,Asia,51269183
+2555,South Korea,131,3,7513,54,Asia,51269183
+2556,South Korea,242,6,7755,60,Asia,51269183
+2557,South Korea,114,6,7869,66,Asia,51269183
+2558,South Korea,110,1,7979,67,Asia,51269183
+2559,South Korea,107,5,8086,72,Asia,51269183
+2560,South Korea,76,3,8162,75,Asia,51269183
+2561,South Korea,74,0,8236,75,Asia,51269183
+2562,South Korea,84,6,8320,81,Asia,51269183
+2563,South Korea,93,5,8413,86,Asia,51269183
+2564,South Korea,152,5,8565,91,Asia,51269183
+2565,South Korea,87,9,8652,100,Asia,51269183
+2566,South Korea,147,3,8799,103,Asia,51269183
+2567,South Korea,98,1,8897,104,Asia,51269183
+2568,South Korea,64,9,8961,113,Asia,51269183
+2569,South Korea,76,7,9037,120,Asia,51269183
+2570,South Korea,100,6,9137,126,Asia,51269183
+2571,South Korea,104,5,9241,131,Asia,51269183
+2572,South Korea,91,8,9332,139,Asia,51269183
+2573,South Korea,146,5,9478,144,Asia,51269183
+2574,South Korea,105,8,9583,152,Asia,51269183
+2575,South Korea,78,6,9661,158,Asia,51269183
+2576,South Korea,125,5,9786,163,Asia,51269183
+2577,South Korea,0,0,9786,163,Asia,51269183
+2578,South Korea,190,6,9976,169,Asia,51269183
+2579,South Korea,86,5,10062,174,Asia,51269183
+2580,South Korea,94,3,10156,177,Asia,51269183
+2581,South Korea,81,6,10237,183,Asia,51269183
+2582,South Korea,47,3,10284,186,Asia,51269183
+2583,Spain,1,0,1,0,Europe,46754783
+2584,Spain,0,0,1,0,Europe,46754783
+2585,Spain,0,0,1,0,Europe,46754783
+2586,Spain,0,0,1,0,Europe,46754783
+2587,Spain,0,0,1,0,Europe,46754783
+2588,Spain,0,0,1,0,Europe,46754783
+2589,Spain,0,0,1,0,Europe,46754783
+2590,Spain,0,0,1,0,Europe,46754783
+2591,Spain,0,0,1,0,Europe,46754783
+2592,Spain,1,0,2,0,Europe,46754783
+2593,Spain,0,0,2,0,Europe,46754783
+2594,Spain,0,0,2,0,Europe,46754783
+2595,Spain,0,0,2,0,Europe,46754783
+2596,Spain,0,0,2,0,Europe,46754783
+2597,Spain,0,0,2,0,Europe,46754783
+2598,Spain,0,0,2,0,Europe,46754783
+2599,Spain,0,0,2,0,Europe,46754783
+2600,Spain,0,0,2,0,Europe,46754783
+2601,Spain,0,0,2,0,Europe,46754783
+2602,Spain,0,0,2,0,Europe,46754783
+2603,Spain,0,0,2,0,Europe,46754783
+2604,Spain,0,0,2,0,Europe,46754783
+2605,Spain,0,0,2,0,Europe,46754783
+2606,Spain,0,0,2,0,Europe,46754783
+2607,Spain,1,0,3,0,Europe,46754783
+2608,Spain,4,0,7,0,Europe,46754783
+2609,Spain,5,0,12,0,Europe,46754783
+2610,Spain,13,0,25,0,Europe,46754783
+2611,Spain,9,0,34,0,Europe,46754783
+2612,Spain,32,0,66,0,Europe,46754783
+2613,Spain,17,0,83,0,Europe,46754783
+2614,Spain,31,0,114,0,Europe,46754783
+2615,Spain,37,0,151,0,Europe,46754783
+2616,Spain,49,1,200,1,Europe,46754783
+2617,Spain,61,2,261,3,Europe,46754783
+2618,Spain,113,2,374,5,Europe,46754783
+2619,Spain,56,0,430,5,Europe,46754783
+2620,Spain,159,0,589,5,Europe,46754783
+2621,Spain,615,23,1204,28,Europe,46754783
+2622,Spain,435,7,1639,35,Europe,46754783
+2623,Spain,501,12,2140,47,Europe,46754783
+2624,Spain,864,37,3004,84,Europe,46754783
+2625,Spain,1227,37,4231,121,Europe,46754783
+2626,Spain,1522,15,5753,136,Europe,46754783
+2627,Spain,2000,152,7753,288,Europe,46754783
+2628,Spain,1438,21,9191,309,Europe,46754783
+2629,Spain,1987,182,11178,491,Europe,46754783
+2630,Spain,2538,107,13716,598,Europe,46754783
+2631,Spain,3431,169,17147,767,Europe,46754783
+2632,Spain,2833,235,19980,1002,Europe,46754783
+2633,Spain,4946,324,24926,1326,Europe,46754783
+2634,Spain,3646,394,28572,1720,Europe,46754783
+2635,Spain,4517,462,33089,2182,Europe,46754783
+2636,Spain,6584,514,39673,2696,Europe,46754783
+2637,Spain,7937,738,47610,3434,Europe,46754783
+2638,Spain,8578,655,56188,4089,Europe,46754783
+2639,Spain,7871,769,64059,4858,Europe,46754783
+2640,Spain,8189,832,72248,5690,Europe,46754783
+2641,Spain,6549,838,78797,6528,Europe,46754783
+2642,Spain,6398,812,85195,7340,Europe,46754783
+2643,Spain,9222,849,94417,8189,Europe,46754783
+2644,Spain,7719,864,102136,9053,Europe,46754783
+2645,Spain,8102,950,110238,10003,Europe,46754783
+2646,Spain,7472,932,117710,10935,Europe,46754783
+2647,Spain,7026,809,124736,11744,Europe,46754783
+2648,Spain,6023,674,130759,12418,Europe,46754783
+2649,Sri Lanka,1,0,1,0,Asia,21413250
+2650,Sri Lanka,0,0,1,0,Asia,21413250
+2651,Sri Lanka,0,0,1,0,Asia,21413250
+2652,Sri Lanka,0,0,1,0,Asia,21413250
+2653,Sri Lanka,0,0,1,0,Asia,21413250
+2654,Sri Lanka,0,0,1,0,Asia,21413250
+2655,Sri Lanka,0,0,1,0,Asia,21413250
+2656,Sri Lanka,0,0,1,0,Asia,21413250
+2657,Sri Lanka,0,0,1,0,Asia,21413250
+2658,Sri Lanka,0,0,1,0,Asia,21413250
+2659,Sri Lanka,0,0,1,0,Asia,21413250
+2660,Sri Lanka,0,0,1,0,Asia,21413250
+2661,Sri Lanka,0,0,1,0,Asia,21413250
+2662,Sri Lanka,0,0,1,0,Asia,21413250
+2663,Sri Lanka,0,0,1,0,Asia,21413250
+2664,Sri Lanka,0,0,1,0,Asia,21413250
+2665,Sri Lanka,0,0,1,0,Asia,21413250
+2666,Sri Lanka,0,0,1,0,Asia,21413250
+2667,Sri Lanka,0,0,1,0,Asia,21413250
+2668,Sri Lanka,0,0,1,0,Asia,21413250
+2669,Sri Lanka,0,0,1,0,Asia,21413250
+2670,Sri Lanka,0,0,1,0,Asia,21413250
+2671,Sri Lanka,0,0,1,0,Asia,21413250
+2672,Sri Lanka,0,0,1,0,Asia,21413250
+2673,Sri Lanka,0,0,1,0,Asia,21413250
+2674,Sri Lanka,0,0,1,0,Asia,21413250
+2675,Sri Lanka,0,0,1,0,Asia,21413250
+2676,Sri Lanka,0,0,1,0,Asia,21413250
+2677,Sri Lanka,0,0,1,0,Asia,21413250
+2678,Sri Lanka,0,0,1,0,Asia,21413250
+2679,Sri Lanka,0,0,1,0,Asia,21413250
+2680,Sri Lanka,0,0,1,0,Asia,21413250
+2681,Sri Lanka,0,0,1,0,Asia,21413250
+2682,Sri Lanka,0,0,1,0,Asia,21413250
+2683,Sri Lanka,0,0,1,0,Asia,21413250
+2684,Sri Lanka,1,0,2,0,Asia,21413250
+2685,Sri Lanka,1,0,3,0,Asia,21413250
+2686,Sri Lanka,3,0,6,0,Asia,21413250
+2687,Sri Lanka,5,0,11,0,Asia,21413250
+2688,Sri Lanka,8,0,19,0,Asia,21413250
+2689,Sri Lanka,10,0,29,0,Asia,21413250
+2690,Sri Lanka,13,0,42,0,Asia,21413250
+2691,Sri Lanka,0,0,42,0,Asia,21413250
+2692,Sri Lanka,11,0,53,0,Asia,21413250
+2693,Sri Lanka,13,0,66,0,Asia,21413250
+2694,Sri Lanka,12,0,78,0,Asia,21413250
+2695,Sri Lanka,9,0,87,0,Asia,21413250
+2696,Sri Lanka,10,0,97,0,Asia,21413250
+2697,Sri Lanka,5,0,102,0,Asia,21413250
+2698,Sri Lanka,0,0,102,0,Asia,21413250
+2699,Sri Lanka,4,0,106,0,Asia,21413250
+2700,Sri Lanka,0,0,106,0,Asia,21413250
+2701,Sri Lanka,9,1,115,1,Asia,21413250
+2702,Sri Lanka,5,0,120,1,Asia,21413250
+2703,Sri Lanka,0,0,120,1,Asia,21413250
+2704,Sri Lanka,2,1,122,2,Asia,21413250
+2705,Sri Lanka,21,0,143,2,Asia,21413250
+2706,Sri Lanka,5,1,148,3,Asia,21413250
+2707,Sri Lanka,3,1,151,4,Asia,21413250
+2708,Sri Lanka,8,1,159,5,Asia,21413250
+2709,Sri Lanka,7,0,166,5,Asia,21413250
+2710,Sweden,1,0,1,0,Europe,10099270
+2711,Sweden,0,0,1,0,Europe,10099270
+2712,Sweden,0,0,1,0,Europe,10099270
+2713,Sweden,0,0,1,0,Europe,10099270
+2714,Sweden,0,0,1,0,Europe,10099270
+2715,Sweden,0,0,1,0,Europe,10099270
+2716,Sweden,0,0,1,0,Europe,10099270
+2717,Sweden,0,0,1,0,Europe,10099270
+2718,Sweden,0,0,1,0,Europe,10099270
+2719,Sweden,0,0,1,0,Europe,10099270
+2720,Sweden,0,0,1,0,Europe,10099270
+2721,Sweden,0,0,1,0,Europe,10099270
+2722,Sweden,0,0,1,0,Europe,10099270
+2723,Sweden,0,0,1,0,Europe,10099270
+2724,Sweden,0,0,1,0,Europe,10099270
+2725,Sweden,0,0,1,0,Europe,10099270
+2726,Sweden,0,0,1,0,Europe,10099270
+2727,Sweden,0,0,1,0,Europe,10099270
+2728,Sweden,0,0,1,0,Europe,10099270
+2729,Sweden,0,0,1,0,Europe,10099270
+2730,Sweden,0,0,1,0,Europe,10099270
+2731,Sweden,0,0,1,0,Europe,10099270
+2732,Sweden,0,0,1,0,Europe,10099270
+2733,Sweden,0,0,1,0,Europe,10099270
+2734,Sweden,0,0,1,0,Europe,10099270
+2735,Sweden,0,0,1,0,Europe,10099270
+2736,Sweden,1,0,2,0,Europe,10099270
+2737,Sweden,5,0,7,0,Europe,10099270
+2738,Sweden,5,0,12,0,Europe,10099270
+2739,Sweden,1,0,13,0,Europe,10099270
+2740,Sweden,1,0,14,0,Europe,10099270
+2741,Sweden,1,0,15,0,Europe,10099270
+2742,Sweden,9,0,24,0,Europe,10099270
+2743,Sweden,11,0,35,0,Europe,10099270
+2744,Sweden,26,0,61,0,Europe,10099270
+2745,Sweden,76,0,137,0,Europe,10099270
+2746,Sweden,24,0,161,0,Europe,10099270
+2747,Sweden,42,0,203,0,Europe,10099270
+2748,Sweden,45,0,248,0,Europe,10099270
+2749,Sweden,78,0,326,0,Europe,10099270
+2750,Sweden,136,1,462,1,Europe,10099270
+2751,Sweden,158,0,620,1,Europe,10099270
+2752,Sweden,155,0,775,1,Europe,10099270
+2753,Sweden,149,0,924,1,Europe,10099270
+2754,Sweden,108,2,1032,3,Europe,10099270
+2755,Sweden,89,4,1121,7,Europe,10099270
+2756,Sweden,46,1,1167,8,Europe,10099270
+2757,Sweden,134,2,1301,10,Europe,10099270
+2758,Sweden,122,0,1423,10,Europe,10099270
+2759,Sweden,200,6,1623,16,Europe,10099270
+2760,Sweden,123,4,1746,20,Europe,10099270
+2761,Sweden,160,1,1906,21,Europe,10099270
+2762,Sweden,110,4,2016,25,Europe,10099270
+2763,Sweden,256,11,2272,36,Europe,10099270
+2764,Sweden,238,6,2510,42,Europe,10099270
+2765,Sweden,296,24,2806,66,Europe,10099270
+2766,Sweden,240,26,3046,92,Europe,10099270
+2767,Sweden,401,10,3447,102,Europe,10099270
+2768,Sweden,253,8,3700,110,Europe,10099270
+2769,Sweden,328,36,4028,146,Europe,10099270
+2770,Sweden,407,34,4435,180,Europe,10099270
+2771,Sweden,512,59,4947,239,Europe,10099270
+2772,Sweden,519,43,5466,282,Europe,10099270
+2773,Sweden,612,51,6078,333,Europe,10099270
+2774,Sweden,365,40,6443,373,Europe,10099270
+2775,Sweden,387,28,6830,401,Europe,10099270
+2776,Switzerland,1,0,1,0,Europe,8654618
+2777,Switzerland,0,0,1,0,Europe,8654618
+2778,Switzerland,7,0,8,0,Europe,8654618
+2779,Switzerland,4,0,12,0,Europe,8654618
+2780,Switzerland,6,0,18,0,Europe,8654618
+2781,Switzerland,6,0,24,0,Europe,8654618
+2782,Switzerland,6,0,30,0,Europe,8654618
+2783,Switzerland,7,0,37,0,Europe,8654618
+2784,Switzerland,20,0,57,0,Europe,8654618
+2785,Switzerland,30,1,87,1,Europe,8654618
+2786,Switzerland,122,0,209,1,Europe,8654618
+2787,Switzerland,55,0,264,1,Europe,8654618
+2788,Switzerland,68,1,332,2,Europe,8654618
+2789,Switzerland,42,0,374,2,Europe,8654618
+2790,Switzerland,116,1,490,3,Europe,8654618
+2791,Switzerland,152,1,642,4,Europe,8654618
+2792,Switzerland,212,0,854,4,Europe,8654618
+2793,Switzerland,267,3,1121,7,Europe,8654618
+2794,Switzerland,238,4,1359,11,Europe,8654618
+2795,Switzerland,841,2,2200,13,Europe,8654618
+2796,Switzerland,0,1,2200,14,Europe,8654618
+2797,Switzerland,450,5,2650,19,Europe,8654618
+2798,Switzerland,360,2,3010,21,Europe,8654618
+2799,Switzerland,878,12,3888,33,Europe,8654618
+2800,Switzerland,952,10,4840,43,Europe,8654618
+2801,Switzerland,1237,13,6077,56,Europe,8654618
+2802,Switzerland,894,4,6971,60,Europe,8654618
+2803,Switzerland,1044,6,8015,66,Europe,8654618
+2804,Switzerland,774,20,8789,86,Europe,8654618
+2805,Switzerland,925,17,9714,103,Europe,8654618
+2806,Switzerland,1000,58,10714,161,Europe,8654618
+2807,Switzerland,1390,36,12104,197,Europe,8654618
+2808,Switzerland,1048,38,13152,235,Europe,8654618
+2809,Switzerland,1122,22,14274,257,Europe,8654618
+2810,Switzerland,1138,38,15412,295,Europe,8654618
+2811,Switzerland,696,78,16108,373,Europe,8654618
+2812,Switzerland,962,5,17070,378,Europe,8654618
+2813,Switzerland,1774,158,18844,536,Europe,8654618
+2814,Switzerland,862,71,19706,607,Europe,8654618
+2815,Switzerland,783,59,20489,666,Europe,8654618
+2816,Switzerland,576,49,21065,715,Europe,8654618
+2817,Taiwan,1,0,1,0,Asia,23816775
+2818,Taiwan,0,0,1,0,Asia,23816775
+2819,Taiwan,0,0,1,0,Asia,23816775
+2820,Taiwan,0,0,1,0,Asia,23816775
+2821,Taiwan,2,0,3,0,Asia,23816775
+2822,Taiwan,0,0,3,0,Asia,23816775
+2823,Taiwan,2,0,5,0,Asia,23816775
+2824,Taiwan,2,0,7,0,Asia,23816775
+2825,Taiwan,1,0,8,0,Asia,23816775
+2826,Taiwan,0,0,8,0,Asia,23816775
+2827,Taiwan,1,0,9,0,Asia,23816775
+2828,Taiwan,1,0,10,0,Asia,23816775
+2829,Taiwan,0,0,10,0,Asia,23816775
+2830,Taiwan,0,0,10,0,Asia,23816775
+2831,Taiwan,0,0,10,0,Asia,23816775
+2832,Taiwan,1,0,11,0,Asia,23816775
+2833,Taiwan,0,0,11,0,Asia,23816775
+2834,Taiwan,5,0,16,0,Asia,23816775
+2835,Taiwan,1,0,17,0,Asia,23816775
+2836,Taiwan,1,0,18,0,Asia,23816775
+2837,Taiwan,0,0,18,0,Asia,23816775
+2838,Taiwan,0,0,18,0,Asia,23816775
+2839,Taiwan,0,0,18,0,Asia,23816775
+2840,Taiwan,0,0,18,0,Asia,23816775
+2841,Taiwan,0,0,18,0,Asia,23816775
+2842,Taiwan,0,0,18,0,Asia,23816775
+2843,Taiwan,0,0,18,0,Asia,23816775
+2844,Taiwan,2,1,20,1,Asia,23816775
+2845,Taiwan,2,0,22,1,Asia,23816775
+2846,Taiwan,0,0,22,1,Asia,23816775
+2847,Taiwan,2,0,24,1,Asia,23816775
+2848,Taiwan,0,0,24,1,Asia,23816775
+2849,Taiwan,2,0,26,1,Asia,23816775
+2850,Taiwan,0,0,26,1,Asia,23816775
+2851,Taiwan,2,0,28,1,Asia,23816775
+2852,Taiwan,2,0,30,1,Asia,23816775
+2853,Taiwan,1,0,31,1,Asia,23816775
+2854,Taiwan,1,0,32,1,Asia,23816775
+2855,Taiwan,2,0,34,1,Asia,23816775
+2856,Taiwan,5,0,39,1,Asia,23816775
+2857,Taiwan,1,0,40,1,Asia,23816775
+2858,Taiwan,0,0,40,1,Asia,23816775
+2859,Taiwan,1,0,41,1,Asia,23816775
+2860,Taiwan,1,0,42,1,Asia,23816775
+2861,Taiwan,2,0,44,1,Asia,23816775
+2862,Taiwan,1,0,45,1,Asia,23816775
+2863,Taiwan,0,0,45,1,Asia,23816775
+2864,Taiwan,0,0,45,1,Asia,23816775
+2865,Taiwan,3,0,48,1,Asia,23816775
+2866,Taiwan,0,0,48,1,Asia,23816775
+2867,Taiwan,1,0,49,1,Asia,23816775
+2868,Taiwan,4,0,53,1,Asia,23816775
+2869,Taiwan,6,0,59,1,Asia,23816775
+2870,Taiwan,0,0,59,1,Asia,23816775
+2871,Taiwan,8,0,67,1,Asia,23816775
+2872,Taiwan,10,0,77,1,Asia,23816775
+2873,Taiwan,31,0,108,1,Asia,23816775
+2874,Taiwan,0,0,108,1,Asia,23816775
+2875,Taiwan,27,1,135,2,Asia,23816775
+2876,Taiwan,18,0,153,2,Asia,23816775
+2877,Taiwan,12,0,165,2,Asia,23816775
+2878,Taiwan,30,0,195,2,Asia,23816775
+2879,Taiwan,21,0,216,2,Asia,23816775
+2880,Taiwan,19,0,235,2,Asia,23816775
+2881,Taiwan,17,0,252,2,Asia,23816775
+2882,Taiwan,15,0,267,2,Asia,23816775
+2883,Taiwan,16,0,283,2,Asia,23816775
+2884,Taiwan,23,3,306,5,Asia,23816775
+2885,Taiwan,0,0,306,5,Asia,23816775
+2886,Taiwan,16,0,322,5,Asia,23816775
+2887,Taiwan,17,0,339,5,Asia,23816775
+2888,Taiwan,0,0,339,5,Asia,23816775
+2889,Taiwan,16,0,355,5,Asia,23816775
+2890,Taiwan,8,0,363,5,Asia,23816775
+2891,Taiwan,0,0,363,5,Asia,23816775
+2892,Thailand,1,0,1,0,Asia,69799978
+2893,Thailand,0,0,1,0,Asia,69799978
+2894,Thailand,0,0,1,0,Asia,69799978
+2895,Thailand,0,0,1,0,Asia,69799978
+2896,Thailand,1,0,2,0,Asia,69799978
+2897,Thailand,0,0,2,0,Asia,69799978
+2898,Thailand,0,0,2,0,Asia,69799978
+2899,Thailand,0,0,2,0,Asia,69799978
+2900,Thailand,0,0,2,0,Asia,69799978
+2901,Thailand,2,0,4,0,Asia,69799978
+2902,Thailand,0,0,4,0,Asia,69799978
+2903,Thailand,0,0,4,0,Asia,69799978
+2904,Thailand,1,0,5,0,Asia,69799978
+2905,Thailand,0,0,5,0,Asia,69799978
+2906,Thailand,3,0,8,0,Asia,69799978
+2907,Thailand,6,0,14,0,Asia,69799978
+2908,Thailand,0,0,14,0,Asia,69799978
+2909,Thailand,0,0,14,0,Asia,69799978
+2910,Thailand,0,0,14,0,Asia,69799978
+2911,Thailand,5,0,19,0,Asia,69799978
+2912,Thailand,0,0,19,0,Asia,69799978
+2913,Thailand,0,0,19,0,Asia,69799978
+2914,Thailand,0,0,19,0,Asia,69799978
+2915,Thailand,6,0,25,0,Asia,69799978
+2916,Thailand,0,0,25,0,Asia,69799978
+2917,Thailand,0,0,25,0,Asia,69799978
+2918,Thailand,7,0,32,0,Asia,69799978
+2919,Thailand,0,0,32,0,Asia,69799978
+2920,Thailand,0,0,32,0,Asia,69799978
+2921,Thailand,0,0,32,0,Asia,69799978
+2922,Thailand,1,0,33,0,Asia,69799978
+2923,Thailand,0,0,33,0,Asia,69799978
+2924,Thailand,0,0,33,0,Asia,69799978
+2925,Thailand,1,0,34,0,Asia,69799978
+2926,Thailand,0,0,34,0,Asia,69799978
+2927,Thailand,0,0,34,0,Asia,69799978
+2928,Thailand,1,0,35,0,Asia,69799978
+2929,Thailand,0,0,35,0,Asia,69799978
+2930,Thailand,0,0,35,0,Asia,69799978
+2931,Thailand,0,0,35,0,Asia,69799978
+2932,Thailand,0,0,35,0,Asia,69799978
+2933,Thailand,0,0,35,0,Asia,69799978
+2934,Thailand,0,0,35,0,Asia,69799978
+2935,Thailand,2,0,37,0,Asia,69799978
+2936,Thailand,3,0,40,0,Asia,69799978
+2937,Thailand,0,0,40,0,Asia,69799978
+2938,Thailand,0,0,40,0,Asia,69799978
+2939,Thailand,2,0,42,0,Asia,69799978
+2940,Thailand,0,1,42,1,Asia,69799978
+2941,Thailand,1,0,43,1,Asia,69799978
+2942,Thailand,4,0,47,1,Asia,69799978
+2943,Thailand,3,0,50,1,Asia,69799978
+2944,Thailand,9,0,59,1,Asia,69799978
+2945,Thailand,11,0,70,1,Asia,69799978
+2946,Thailand,12,0,82,1,Asia,69799978
+2947,Thailand,0,0,82,1,Asia,69799978
+2948,Thailand,32,0,114,1,Asia,69799978
+2949,Thailand,63,0,177,1,Asia,69799978
+2950,Thailand,0,0,177,1,Asia,69799978
+2951,Thailand,0,0,177,1,Asia,69799978
+2952,Thailand,35,0,212,1,Asia,69799978
+2953,Thailand,154,0,366,1,Asia,69799978
+2954,Thailand,233,0,599,1,Asia,69799978
+2955,Thailand,122,0,721,1,Asia,69799978
+2956,Thailand,106,3,827,4,Asia,69799978
+2957,Thailand,107,0,934,4,Asia,69799978
+2958,Thailand,111,0,1045,4,Asia,69799978
+2959,Thailand,91,1,1136,5,Asia,69799978
+2960,Thailand,0,0,1136,5,Asia,69799978
+2961,Thailand,109,1,1245,6,Asia,69799978
+2962,Thailand,143,1,1388,7,Asia,69799978
+2963,Thailand,263,3,1651,10,Asia,69799978
+2964,Thailand,0,0,1651,10,Asia,69799978
+2965,Thailand,120,2,1771,12,Asia,69799978
+2966,Thailand,104,3,1875,15,Asia,69799978
+2967,Thailand,103,4,1978,19,Asia,69799978
+2968,Thailand,191,4,2169,23,Asia,69799978
+2969,Thailand,51,3,2220,26,Asia,69799978
+2970,United Arab Emirates,1,0,1,0,Asia,9890400
+2971,United Arab Emirates,0,0,1,0,Asia,9890400
+2972,United Arab Emirates,0,0,1,0,Asia,9890400
+2973,United Arab Emirates,3,0,4,0,Asia,9890400
+2974,United Arab Emirates,0,0,4,0,Asia,9890400
+2975,United Arab Emirates,0,0,4,0,Asia,9890400
+2976,United Arab Emirates,1,0,5,0,Asia,9890400
+2977,United Arab Emirates,0,0,5,0,Asia,9890400
+2978,United Arab Emirates,0,0,5,0,Asia,9890400
+2979,United Arab Emirates,0,0,5,0,Asia,9890400
+2980,United Arab Emirates,0,0,5,0,Asia,9890400
+2981,United Arab Emirates,0,0,5,0,Asia,9890400
+2982,United Arab Emirates,2,0,7,0,Asia,9890400
+2983,United Arab Emirates,0,0,7,0,Asia,9890400
+2984,United Arab Emirates,0,0,7,0,Asia,9890400
+2985,United Arab Emirates,1,0,8,0,Asia,9890400
+2986,United Arab Emirates,0,0,8,0,Asia,9890400
+2987,United Arab Emirates,0,0,8,0,Asia,9890400
+2988,United Arab Emirates,0,0,8,0,Asia,9890400
+2989,United Arab Emirates,0,0,8,0,Asia,9890400
+2990,United Arab Emirates,0,0,8,0,Asia,9890400
+2991,United Arab Emirates,1,0,9,0,Asia,9890400
+2992,United Arab Emirates,0,0,9,0,Asia,9890400
+2993,United Arab Emirates,0,0,9,0,Asia,9890400
+2994,United Arab Emirates,0,0,9,0,Asia,9890400
+2995,United Arab Emirates,0,0,9,0,Asia,9890400
+2996,United Arab Emirates,2,0,11,0,Asia,9890400
+2997,United Arab Emirates,2,0,13,0,Asia,9890400
+2998,United Arab Emirates,0,0,13,0,Asia,9890400
+2999,United Arab Emirates,0,0,13,0,Asia,9890400
+3000,United Arab Emirates,0,0,13,0,Asia,9890400
+3001,United Arab Emirates,0,0,13,0,Asia,9890400
+3002,United Arab Emirates,6,0,19,0,Asia,9890400
+3003,United Arab Emirates,0,0,19,0,Asia,9890400
+3004,United Arab Emirates,2,0,21,0,Asia,9890400
+3005,United Arab Emirates,0,0,21,0,Asia,9890400
+3006,United Arab Emirates,6,0,27,0,Asia,9890400
+3007,United Arab Emirates,2,0,29,0,Asia,9890400
+3008,United Arab Emirates,16,0,45,0,Asia,9890400
+3009,United Arab Emirates,14,0,59,0,Asia,9890400
+3010,United Arab Emirates,15,0,74,0,Asia,9890400
+3011,United Arab Emirates,11,0,85,0,Asia,9890400
+3012,United Arab Emirates,0,0,85,0,Asia,9890400
+3013,United Arab Emirates,1,0,86,0,Asia,9890400
+3014,United Arab Emirates,12,0,98,0,Asia,9890400
+3015,United Arab Emirates,15,0,113,0,Asia,9890400
+3016,United Arab Emirates,0,0,113,0,Asia,9890400
+3017,United Arab Emirates,27,0,140,0,Asia,9890400
+3018,United Arab Emirates,0,0,140,0,Asia,9890400
+3019,United Arab Emirates,13,2,153,2,Asia,9890400
+3020,United Arab Emirates,0,0,153,2,Asia,9890400
+3021,United Arab Emirates,45,0,198,2,Asia,9890400
+3022,United Arab Emirates,50,0,248,2,Asia,9890400
+3023,United Arab Emirates,85,0,333,2,Asia,9890400
+3024,United Arab Emirates,0,0,333,2,Asia,9890400
+3025,United Arab Emirates,72,0,405,2,Asia,9890400
+3026,United Arab Emirates,63,0,468,2,Asia,9890400
+3027,United Arab Emirates,0,0,468,2,Asia,9890400
+3028,United Arab Emirates,143,3,611,5,Asia,9890400
+3029,United Arab Emirates,53,1,664,6,Asia,9890400
+3030,United Arab Emirates,0,0,664,6,Asia,9890400
+3031,United Arab Emirates,360,2,1024,8,Asia,9890400
+3032,United Arab Emirates,0,0,1024,8,Asia,9890400
+3033,United Arab Emirates,481,2,1505,10,Asia,9890400
+3034,United Arab Emirates,294,0,1799,10,Asia,9890400
+3035,United Kingdom,2,0,2,0,Europe,67886004
+3036,United Kingdom,0,0,2,0,Europe,67886004
+3037,United Kingdom,0,0,2,0,Europe,67886004
+3038,United Kingdom,0,0,2,0,Europe,67886004
+3039,United Kingdom,0,0,2,0,Europe,67886004
+3040,United Kingdom,0,0,2,0,Europe,67886004
+3041,United Kingdom,0,0,2,0,Europe,67886004
+3042,United Kingdom,1,0,3,0,Europe,67886004
+3043,United Kingdom,0,0,3,0,Europe,67886004
+3044,United Kingdom,1,0,4,0,Europe,67886004
+3045,United Kingdom,0,0,4,0,Europe,67886004
+3046,United Kingdom,4,0,8,0,Europe,67886004
+3047,United Kingdom,0,0,8,0,Europe,67886004
+3048,United Kingdom,1,0,9,0,Europe,67886004
+3049,United Kingdom,0,0,9,0,Europe,67886004
+3050,United Kingdom,0,0,9,0,Europe,67886004
+3051,United Kingdom,0,0,9,0,Europe,67886004
+3052,United Kingdom,0,0,9,0,Europe,67886004
+3053,United Kingdom,0,0,9,0,Europe,67886004
+3054,United Kingdom,0,0,9,0,Europe,67886004
+3055,United Kingdom,0,0,9,0,Europe,67886004
+3056,United Kingdom,0,0,9,0,Europe,67886004
+3057,United Kingdom,0,0,9,0,Europe,67886004
+3058,United Kingdom,0,0,9,0,Europe,67886004
+3059,United Kingdom,4,0,13,0,Europe,67886004
+3060,United Kingdom,0,0,13,0,Europe,67886004
+3061,United Kingdom,0,0,13,0,Europe,67886004
+3062,United Kingdom,0,0,13,0,Europe,67886004
+3063,United Kingdom,3,0,16,0,Europe,67886004
+3064,United Kingdom,2,0,18,0,Europe,67886004
+3065,United Kingdom,5,0,23,0,Europe,67886004
+3066,United Kingdom,13,0,36,0,Europe,67886004
+3067,United Kingdom,4,0,40,0,Europe,67886004
+3068,United Kingdom,11,0,51,0,Europe,67886004
+3069,United Kingdom,34,0,85,0,Europe,67886004
+3070,United Kingdom,30,1,115,1,Europe,67886004
+3071,United Kingdom,48,0,163,1,Europe,67886004
+3072,United Kingdom,43,1,206,2,Europe,67886004
+3073,United Kingdom,67,1,273,3,Europe,67886004
+3074,United Kingdom,48,2,321,5,Europe,67886004
+3075,United Kingdom,52,1,373,6,Europe,67886004
+3076,United Kingdom,83,0,456,6,Europe,67886004
+3077,United Kingdom,134,4,590,10,Europe,67886004
+3078,United Kingdom,117,0,707,10,Europe,67886004
+3079,United Kingdom,433,11,1140,21,Europe,67886004
+3080,United Kingdom,251,14,1391,35,Europe,67886004
+3081,United Kingdom,152,20,1543,55,Europe,67886004
+3082,United Kingdom,407,5,1950,60,Europe,67886004
+3083,United Kingdom,680,43,2630,103,Europe,67886004
+3084,United Kingdom,647,41,3277,144,Europe,67886004
+3085,United Kingdom,706,33,3983,177,Europe,67886004
+3086,United Kingdom,1035,56,5018,233,Europe,67886004
+3087,United Kingdom,665,48,5683,281,Europe,67886004
+3088,United Kingdom,967,54,6650,335,Europe,67886004
+3089,United Kingdom,1427,87,8077,422,Europe,67886004
+3090,United Kingdom,1452,41,9529,463,Europe,67886004
+3091,United Kingdom,2129,115,11658,578,Europe,67886004
+3092,United Kingdom,2885,181,14543,759,Europe,67886004
+3093,United Kingdom,2546,260,17089,1019,Europe,67886004
+3094,United Kingdom,2433,209,19522,1228,Europe,67886004
+3095,United Kingdom,2619,180,22141,1408,Europe,67886004
+3096,United Kingdom,3009,381,25150,1789,Europe,67886004
+3097,United Kingdom,4324,743,29474,2532,Europe,67886004
+3098,United Kingdom,4244,389,33718,2921,Europe,67886004
+3099,United Kingdom,4450,684,38168,3605,Europe,67886004
+3100,United Kingdom,3735,708,41903,4313,Europe,67886004
+3101,United Kingdom,5903,621,47806,4934,Europe,67886004
+3102,United States,1,0,1,0,North America,331002647
+3103,United States,0,0,1,0,North America,331002647
+3104,United States,0,0,1,0,North America,331002647
+3105,United States,0,0,1,0,North America,331002647
+3106,United States,1,0,2,0,North America,331002647
+3107,United States,0,0,2,0,North America,331002647
+3108,United States,3,0,5,0,North America,331002647
+3109,United States,0,0,5,0,North America,331002647
+3110,United States,0,0,5,0,North America,331002647
+3111,United States,0,0,5,0,North America,331002647
+3112,United States,1,0,6,0,North America,331002647
+3113,United States,1,0,7,0,North America,331002647
+3114,United States,1,0,8,0,North America,331002647
+3115,United States,3,0,11,0,North America,331002647
+3116,United States,0,0,11,0,North America,331002647
+3117,United States,0,0,11,0,North America,331002647
+3118,United States,1,0,12,0,North America,331002647
+3119,United States,0,0,12,0,North America,331002647
+3120,United States,0,0,12,0,North America,331002647
+3121,United States,0,0,12,0,North America,331002647
+3122,United States,0,0,12,0,North America,331002647
+3123,United States,1,0,13,0,North America,331002647
+3124,United States,0,0,13,0,North America,331002647
+3125,United States,1,0,14,0,North America,331002647
+3126,United States,1,0,15,0,North America,331002647
+3127,United States,0,0,15,0,North America,331002647
+3128,United States,0,0,15,0,North America,331002647
+3129,United States,0,0,15,0,North America,331002647
+3130,United States,0,0,15,0,North America,331002647
+3131,United States,0,0,15,0,North America,331002647
+3132,United States,0,0,15,0,North America,331002647
+3133,United States,1,0,16,0,North America,331002647
+3134,United States,19,0,35,0,North America,331002647
+3135,United States,0,0,35,0,North America,331002647
+3136,United States,0,0,35,0,North America,331002647
+3137,United States,18,0,53,0,North America,331002647
+3138,United States,0,0,53,0,North America,331002647
+3139,United States,6,0,59,0,North America,331002647
+3140,United States,1,0,60,0,North America,331002647
+3141,United States,6,0,66,0,North America,331002647
+3142,United States,3,1,69,1,North America,331002647
+3143,United States,20,1,89,2,North America,331002647
+3144,United States,14,4,103,6,North America,331002647
+3145,United States,22,3,125,9,North America,331002647
+3146,United States,34,2,159,11,North America,331002647
+3147,United States,74,1,233,12,North America,331002647
+3148,United States,105,2,338,14,North America,331002647
+3149,United States,95,3,433,17,North America,331002647
+3150,United States,121,4,554,21,North America,331002647
+3151,United States,200,5,754,26,North America,331002647
+3152,United States,271,2,1025,28,North America,331002647
+3153,United States,287,2,1312,30,North America,331002647
+3154,United States,351,10,1663,40,North America,331002647
+3155,United States,511,7,2174,47,North America,331002647
+3156,United States,777,10,2951,57,North America,331002647
+3157,United States,823,12,3774,69,North America,331002647
+3158,United States,887,16,4661,85,North America,331002647
+3159,United States,1766,23,6427,108,North America,331002647
+3160,United States,2988,42,9415,150,North America,331002647
+3161,United States,4835,0,14250,150,North America,331002647
+3162,United States,5374,110,19624,260,North America,331002647
+3163,United States,7123,80,26747,340,North America,331002647
+3164,United States,8459,131,35206,471,North America,331002647
+3165,United States,11236,119,46442,590,North America,331002647
+3166,United States,8789,211,55231,801,North America,331002647
+3167,United States,13963,249,69194,1050,North America,331002647
+3168,United States,16797,246,85991,1296,North America,331002647
+3169,United States,18695,411,104686,1707,North America,331002647
+3170,United States,19979,484,124665,2191,North America,331002647
+3171,United States,18360,318,143025,2509,North America,331002647
+3172,United States,21595,661,164620,3170,North America,331002647
+3173,United States,24998,909,189618,4079,North America,331002647
+3174,United States,27103,1059,216721,5138,North America,331002647
+3175,United States,28819,915,245540,6053,North America,331002647
+3176,United States,32425,1104,277965,7157,North America,331002647
+3177,United States,34272,1344,312237,8501,North America,331002647
+3178,United States,25398,1146,337635,9647,North America,331002647
+3179,Vietnam,2,0,2,0,Asia,97338583
+3180,Vietnam,0,0,2,0,Asia,97338583
+3181,Vietnam,0,0,2,0,Asia,97338583
+3182,Vietnam,0,0,2,0,Asia,97338583
+3183,Vietnam,0,0,2,0,Asia,97338583
+3184,Vietnam,0,0,2,0,Asia,97338583
+3185,Vietnam,0,0,2,0,Asia,97338583
+3186,Vietnam,3,0,5,0,Asia,97338583
+3187,Vietnam,0,0,5,0,Asia,97338583
+3188,Vietnam,2,0,7,0,Asia,97338583
+3189,Vietnam,1,0,8,0,Asia,97338583
+3190,Vietnam,1,0,9,0,Asia,97338583
+3191,Vietnam,1,0,10,0,Asia,97338583
+3192,Vietnam,0,0,10,0,Asia,97338583
+3193,Vietnam,2,0,12,0,Asia,97338583
+3194,Vietnam,1,0,13,0,Asia,97338583
+3195,Vietnam,1,0,14,0,Asia,97338583
+3196,Vietnam,0,0,14,0,Asia,97338583
+3197,Vietnam,1,0,15,0,Asia,97338583
+3198,Vietnam,0,0,15,0,Asia,97338583
+3199,Vietnam,1,0,16,0,Asia,97338583
+3200,Vietnam,0,0,16,0,Asia,97338583
+3201,Vietnam,0,0,16,0,Asia,97338583
+3202,Vietnam,0,0,16,0,Asia,97338583
+3203,Vietnam,0,0,16,0,Asia,97338583
+3204,Vietnam,0,0,16,0,Asia,97338583
+3205,Vietnam,0,0,16,0,Asia,97338583
+3206,Vietnam,0,0,16,0,Asia,97338583
+3207,Vietnam,0,0,16,0,Asia,97338583
+3208,Vietnam,0,0,16,0,Asia,97338583
+3209,Vietnam,0,0,16,0,Asia,97338583
+3210,Vietnam,0,0,16,0,Asia,97338583
+3211,Vietnam,0,0,16,0,Asia,97338583
+3212,Vietnam,0,0,16,0,Asia,97338583
+3213,Vietnam,0,0,16,0,Asia,97338583
+3214,Vietnam,0,0,16,0,Asia,97338583
+3215,Vietnam,0,0,16,0,Asia,97338583
+3216,Vietnam,0,0,16,0,Asia,97338583
+3217,Vietnam,0,0,16,0,Asia,97338583
+3218,Vietnam,1,0,17,0,Asia,97338583
+3219,Vietnam,4,0,21,0,Asia,97338583
+3220,Vietnam,9,0,30,0,Asia,97338583
+3221,Vietnam,1,0,31,0,Asia,97338583
+3222,Vietnam,4,0,35,0,Asia,97338583
+3223,Vietnam,4,0,39,0,Asia,97338583
+3224,Vietnam,5,0,44,0,Asia,97338583
+3225,Vietnam,5,0,49,0,Asia,97338583
+3226,Vietnam,4,0,53,0,Asia,97338583
+3227,Vietnam,4,0,57,0,Asia,97338583
+3228,Vietnam,4,0,61,0,Asia,97338583
+3229,Vietnam,0,0,61,0,Asia,97338583
+3230,Vietnam,15,0,76,0,Asia,97338583
+3231,Vietnam,9,0,85,0,Asia,97338583
+3232,Vietnam,2,0,87,0,Asia,97338583
+3233,Vietnam,7,0,94,0,Asia,97338583
+3234,Vietnam,24,0,118,0,Asia,97338583
+3235,Vietnam,5,0,123,0,Asia,97338583
+3236,Vietnam,11,0,134,0,Asia,97338583
+3237,Vietnam,14,0,148,0,Asia,97338583
+3238,Vietnam,5,0,153,0,Asia,97338583
+3239,Vietnam,16,0,169,0,Asia,97338583
+3240,Vietnam,54,0,223,0,Asia,97338583
+3241,Vietnam,5,0,228,0,Asia,97338583
+3242,Vietnam,1,0,229,0,Asia,97338583
+3243,Vietnam,0,0,229,0,Asia,97338583
+3244,Vietnam,6,0,235,0,Asia,97338583
+3245,Vietnam,4,0,239,0,Asia,97338583
+3246,Vietnam,0,0,239,0,Asia,97338583
+3247,Vietnam,1,0,240,0,Asia,97338583
+3248,Vietnam,1,0,241,0,Asia,97338583
