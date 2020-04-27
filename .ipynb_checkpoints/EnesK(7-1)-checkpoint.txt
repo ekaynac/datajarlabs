@@ -1,0 +1,7 @@
+1) Linear Regression
+2) Logistic Regression
+3) Logistic Regression
+4) Linear Regression
+5) Linear Regression
+6) Linear Regression
+7) Linear Regression
